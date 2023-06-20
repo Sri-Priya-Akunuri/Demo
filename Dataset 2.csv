@@ -1,0 +1,773 @@
+crop_id,crop_name,state_name,year,season,area,production
+1,Arhar,Alabama,1995,winter,21400,2600
+2,Cotton(lint),Alaska,1996,winter,14000,12900
+3,Dry chillies,Arizona,1997,winter,4000,10000
+4,Groundnut,Arkansas,1998,autumn,755200,867800
+5,Horse-gram,California,1999,autumn,2300,900
+6,Jowar,Colorado,2000,autumn,3700,5800
+7,Moong(Green Gram),Connecticut,2001,monsoon,4600,3400
+8,Masoor,Delaware,2002,monsoon,23117,3861
+9,Bajra,Florida,2003,winter,317,185
+10,Dry chillies,Georgia,2004,spring,71,81
+11,Small millets,Hawaii,2005,summer,1434,627
+12,Sunflower,Idaho,2006,spring,51610,33580
+13,Small millets,Illinois,2007,winter,854,455
+14,Soyabean,Indiana,2008,winter,421,232
+15,Small millets,Iowa,2015,winter,278,124
+16,Gram,Kansas,2016,winter,118,53
+17,Linseed,Kentucky,2017,monsoon,768,445
+18,Masoor,Louisiana,2018,monsoon,1890,983
+19,Maize,Maine,2010,monsoon,3250,7543
+20,Other Rabi pulses,Maryland,2011,monsoon,126,66
+21,Rapeseed &Mustard,Massachusetts,2012,autumn,3060,2084
+22,Sunflower,Michigan,2013,autumn,62,35
+23,Wheat,Minnesota,2014,autumn,41719,70134
+24,Maize,Mississippi,2015,winter,6134,18485
+25,Rice,Missouri,2016,winter,8479,13993
+26,Banana,Montana,2017,monsoon,386,11611
+27,Coriander,Nebraska,2018,monsoon,119,58
+28,Dry chillies,Nevada,2019,monsoon,135,128
+29,Urad,New Hampshire,2009,monsoon,12,10
+30,Rapeseed &Mustard,New Jersey,2010,autumn,120,130
+31,Wheat,New Mexico,2011,autumn,880,3960
+32,Onion,New York,2010,autumn,18,450
+33,Small millets,North Carolina,2010,autumn,1448,203
+34,Soyabean,North Dakota,2011,autumn,136,101
+35,Sunflower,Ohio,2012,autumn,37,36
+36,Urad,Oklahoma,2013,summer,1261,383
+37,Cashewnut,Oregon,2009,summer,39987,18714
+38,Coconut ,Pennsylvania,2010,autumn,11083,54410000
+39,Sugarcane,Rhode Island,2011,autumn,295,17103
+40,Groundnut,South Carolina,2012,autumn,3281,7891
+41,Ragi,South Dakota,2013,autumn,223,279
+42,Rice,Tennessee,2014,autumn,29605,85399
+43,Jowar,Texas,1996,winter,42500,33500
+44,Moong(Green Gram),Utah,2000,monsoon,2300,1200
+45,Moth,Vermont,2015,winter,100,100
+46,Other Kharif pulses,Virginia,2006,winter,400,200
+47,Groundnut,Washington,2007,winter,700,900
+48,Jowar,West Virginia,2009,winter,58400,48200
+49,Maize,Wisconsin,2010,monsoon,1300,2200
+50,Sugarcane,Wyoming,2011,monsoon,500,38000
+51,Tobacco,Montgomery,2012,monsoon,1000,1800
+52,Arhar,Juneau,2013,monsoon,3100,1900
+53,Bajra,Phoenix,2014,monsoon,38200,39100
+54,Castor seed,Little Rock,2015,monsoon,10400,8900
+55,Cotton(lint),Sacramento,2016,monsoon,164300,113400
+56,Sugarcane,Denver,2000,autumn,12000,580000
+57,Arhar,Hartford,2001,summer,130,200
+58,Bajra,Dover,2002,summer,370,
+59,Cotton(lint),Tallahassee,2003,summer,25,
+60,Groundnut,Atlanta,2004,summer,17,
+61,Cotton(lint),Honolulu,2005,winter,25,0
+62,Groundnut,Boise,2006,winter,6,0
+63,Jowar,Springfield,2007,winter,1,0
+64,Maize,Indianapolis,2008,monsoon,5608,14000
+65,Rice,Des Moines,2009,winter,74881,233000
+66,Sesamum,Topeka,2010,spring,1,0
+67,Urad,Frankfort,2011,spring,616,100
+68,Barley,Baton Rouge,2012,spring,54,0
+69,Arhar,Augusta,1998,spring,4,1
+70,Bajra,Annapolis,1999,summer,3,2
+71,Groundnut,Boston,2000,summer,3,1
+72,Horse-gram,Lansing,2001,summer,40,23
+73,Maize,St. Paul,2002,summer,24483,42167
+74,Rice,Jackson,2003,monsoon,2068,2584
+75,Arhar,Jefferson City,2004,monsoon,4,1
+76,Bajra,Helena,2005,monsoon,3,2
+77,Groundnut,Lincoln,2006,monsoon,3,1
+78,Horse-gram,Carson City,2007,monsoon,40,23
+79,Maize,Concord,2008,summer,24483,42167
+80,Rice,Trenton,2009,autumn,2068,2584
+81,Sweet potato,Santa Fe,2010,monsoon,67,
+82,Tobacco,Albany,2011,autumn,1,1
+83,Turmeric,Raleigh,2012,autumn,38,19
+84,Urad,Bismarck,2013,autumn,1982,870
+85,Barley,Columbus,2014,autumn,3564,4944
+86,Coriander,Oklahoma City,2015,autumn,17,4
+87,Peas & beans (Pulses),Salem,2010,autumn,41279,1105
+88,Wheat,Harrisburg,2011,autumn,23,20
+89,Cond-spcs other,Providence,2012,autumn,38,38
+90,Maize,Columbia,2013,autumn,22099,12830
+91,Urad,Pierre,2014,winter,132,44.7
+92,Onion,Nashville,2015,winter,2,4.7
+93,Peas & beans (Pulses),Austin,2016,winter,17,11.9
+94,Potato,Salt Lake City,2017,winter,4,46.7
+95,Other Kharif pulses,Montpelier,2018,spring,45,23.6
+96,Peas & beans (Pulses),Richmond,2019,spring,5,3
+97,Peas & beans (Pulses),Olympia,2020,spring,21205,58140
+98,Wheat,Charleston,1998,autumn,1383.93,957.68
+99,Rice,Madison,2000,autumn,31904.26,29990.01
+100,Maize,Cheyenne,2002,autumn,2070.85,2563.71
+101,Arhar,Alabama,2004,autumn,567.88,792.76
+102,Gram,Alaska,2006,autumn,261.51,165.8
+103,Rapeseed &Mustard,Arizona,2008,monsoon,325.7,468.03
+104,Arhar,Arkansas,1998,spring,6154,2602
+105,Bajra,California,1999,monsoon,48855,52375
+106,Castor seed,Colorado,2000,monsoon,71,61
+107,Cotton(lint),Connecticut,2001,autumn,15225,22129
+108,Jowar,Delaware,2002,spring,11375,22359
+109,Maize,Florida,2003,summer,31263,99110
+110,Mesta,Georgia,2004,summer,9,17
+111,Moong(Green Gram),Hawaii,2005,summer,23658,10069
+112,Niger seed,Idaho,2006,monsoon,435,66
+113,Sunflower,Illinois,2007,autumn,3232,2693
+114,Arecanut,Indiana,2008,autumn,6,8
+115,Banana,Iowa,2009,winter,434,7423
+116,Brinjal,Kansas,2010,autumn,1037,4377
+117,Arhar,Kentucky,2011,summer,4811,2610
+118,Bajra,Louisiana,2012,monsoon,43613,17323
+119,Urad,Maine,2013,autumn,32,12
+120,Cotton(lint),Maryland,2014,winter,874,928
+121,Cowpea(Lobia),Massachusetts,2015,autumn,940,331
+122,Maize,Michigan,2016,winter,51814,183308
+123,Moong(Green Gram),Minnesota,2017,summer,37597,4750
+124,Niger seed,Mississippi,2018,summer,106,23
+125,Onion,Missouri,2018,monsoon,10683,96861
+126,Other Kharif pulses,Montana,2019,monsoon,345,110
+127,Rice,Nebraska,2019,monsoon,54,160
+128,Sesamum,Nevada,2019,autumn,988,368
+129,Soyabean,New Hampshire,2019,monsoon,3011,3613
+130,Sunflower,New Jersey,2019,monsoon,13697,7508
+131,Arecanut,New Mexico,1997,autumn,2253,1518
+132,Black pepper,New York,1999,monsoon,2235,248
+133,Cashewnut,North Carolina,1998,autumn,7205,2358
+134,Coconut ,North Dakota,1999,winter,77893,399000
+135,Tapioca,Ohio,1999,spring,3911,74110
+136,Rice,Oklahoma,1999,spring,8719,17570
+137,Sesamum,Oregon,2000,autumn,1150,140
+138,Rice,Pennsylvania,2000,winter,19058,58013
+139,Arecanut,Rhode Island,2000,summer,2067,766
+140,Banana,South Carolina,2000,summer,324,4493
+141,Black pepper,South Dakota,2000,summer,2028,256
+142,Cashewnut,Tennessee,2000,monsoon,4860,792
+143,Coconut ,Texas,2000,monsoon,58621,288000000
+144,Dry ginger,Utah,2000,monsoon,119,224
+145,Sugarcane,Vermont,2000,monsoon,192,4190
+146,Sweet potato,Virginia,2000,monsoon,7,81
+147,Tapioca,Washington,2000,spring,4929,86808
+148,Turmeric,West Virginia,2001,monsoon,12,14
+149,Rice,Wisconsin,2002,autumn,7348,16098
+150,Rice,Wyoming,2003,autumn,8233,24776
+151,Sesamum,Montgomery,2004,autumn,902,126
+152,Rice,Juneau,2005,summer,16404,39718
+153,Arecanut,Phoenix,2006,autumn,2308,1043
+154,Banana,Little Rock,2007,summer,536,5418
+155,Arecanut,Sacramento,2008,monsoon,1577,955
+156,Banana,Denver,2009,monsoon,563,3790
+157,Black pepper,Hartford,2010,monsoon,1357,126
+158,Cashewnut,Dover,2011,summer,2150,668
+159,Coconut ,Tallahassee,2012,summer,38859,275000000
+160,Dry ginger,Atlanta,2013,monsoon,81,203
+161,Sugarcane,Honolulu,2014,monsoon,60,5530
+162,Sweet potato,Boise,2015,monsoon,7,84
+163,Tapioca,Springfield,2016,monsoon,3272,95578
+164,Turmeric,Indianapolis,2017,monsoon,22,31
+165,Rice,Des Moines,2015,monsoon,7267,21999
+166,Rice,Topeka,2015,monsoon,9128,28912
+167,Sesamum,Frankfort,2015,monsoon,238,50
+168,Rice,Baton Rouge,2015,autumn,16820,46392
+169,Arecanut,Augusta,2015,winter,1711,1008
+170,Banana,Annapolis,2015,spring,538,4322
+171,Black pepper,Boston,2015,summer,1387,134
+172,Cashewnut,Lansing,2015,monsoon,2110,814
+173,Coconut ,St. Paul,2015,summer,39816,257000000
+174,Dry ginger,Jackson,2016,summer,61,168
+175,Sugarcane,Jefferson City,2016,monsoon,66,5790
+176,Banana,Helena,2017,winter,454.95,3604.05
+177,Black pepper,Lincoln,2017,autumn,724.76,136.22
+178,Cashewnut,Carson City,2017,autumn,2559.81,547.69
+179,Coconut ,Concord,2017,autumn,38555.94,219318000
+180,Dry ginger,Trenton,2017,monsoon,93.64,298.28
+181,Potato,Santa Fe,2018,monsoon,7,84
+182,Sugarcane,Albany,2018,monsoon,94.93,8337.2
+183,Tapioca,Raleigh,2018,monsoon,2450.86,61076.79
+184,Turmeric,Bismarck,2018,summer,20.6,41.57
+185,Rice,Columbus,2018,summer,9115.09,28301.03
+186,Rice,Oklahoma City,2019,summer,10758,32362
+187,Rice,Salem,2020,winter,20325,57043
+188,Arhar,Harrisburg,1998,autumn,1834,739
+189,Bajra,Providence,1998,monsoon,5,4
+190,Barley,Columbia,1998,monsoon,286,466
+191,Groundnut,Pierre,1998,monsoon,1077,1138
+192,Jowar,Nashville,1998,autumn,2750,3347
+193,Maize,Austin,1998,autumn,15270,16578
+194,Moong(Green Gram),Salt Lake City,1998,autumn,424,143
+195,Sugarcane,Montpelier,1998,winter,14,530
+196,Sweet potato,Richmond,1998,winter,66,433
+197,Arhar,Olympia,2002,winter,2421,1270
+198,Bajra,Charleston,2003,monsoon,16862,11650
+199,Castor seed,Madison,2004,winter,482,202
+200,Cotton(lint),Cheyenne,2005,winter,5122,776
+201,Groundnut,Alabama,2006,monsoon,10627,10717
+202,Horse-gram,Alaska,2007,monsoon,10047,4340
+203,Jowar,Arizona,2008,monsoon,13113,13442
+204,Maize,Arkansas,2009,summer,37707,45428
+205,Groundnut,California,2010,summer,10094,12298
+206,Horse-gram,Colorado,2011,summer,8698,3698
+207,Jowar,Connecticut,2012,spring,13954,17750
+208,Maize,Delaware,2013,spring,38468,43669
+209,Moong(Green Gram),Florida,2014,spring,1672,628
+210,Other Kharif pulses,Georgia,2016,spring,818,207
+211,Bajra,Hawaii,2003,monsoon,274100,152800
+212,Gram,Idaho,2004,monsoon,40800,18600
+213,Jowar,Illinois,2005,monsoon,900,1100
+214,Maize,Indiana,2006,monsoon,4400,4700
+215,Moong(Green Gram),Iowa,2007,monsoon,10200,900
+216,Pulses total,Kansas,2008,winter,451,130
+217,Ragi,Kentucky,2009,winter,2600,2100
+218,Rice,Louisiana,2009,winter,5900,7200
+219,Sugarcane,Maine,2010,winter,45900,38940
+220,Total foodgrain,Maryland,2011,monsoon,3384,1836
+221,Urad,Massachusetts,2012,summer,1600,800
+222,Jowar,Michigan,2013,summer,598400,217000
+223,Maize,Minnesota,2010,spring,6200,9100
+224,Bajra,Mississippi,2010,spring,274100,152800
+225,Gram,Missouri,2010,winter,40800,18600
+226,Jowar,Montana,2011,autumn,900,1100
+227,Maize,Nebraska,2012,monsoon,4400,4700
+228,Moong(Green Gram),Nevada,2013,autumn,10200,900
+229,Pulses total,New Hampshire,2013,monsoon,451,130
+230,Ragi,New Jersey,2014,monsoon,2600,2100
+231,Rice,New Mexico,2014,summer,5900,7200
+232,Sugarcane,New York,2015,summer,45900,38940
+233,Total foodgrain,North Carolina,2016,monsoon,3384,1836
+234,Urad,North Dakota,2017,autumn,1600,800
+235,Jowar,Ohio,2018,autumn,598400,217000
+236,Maize,Oklahoma,2019,winter,6200,9100
+237,Onion,Oregon,2004,autumn,2,5
+238,Rice,Pennsylvania,2004,monsoon,17,40
+239,Sugarcane,Rhode Island,2005,monsoon,7,2
+240,Dry chillies,South Carolina,2004,monsoon,160,100
+241,Jute,South Dakota,2004,monsoon,10,20
+242,Onion,Tennessee,2004,winter,10,20
+243,Rice,Texas,2004,summer,1470,3360
+244,Sugarcane,Utah,2004,summer,160,5230
+245,Turmeric,Vermont,2004,summer,20,10
+246,Dry chillies,Virginia,2004,summer,280,160
+247,Rapeseed &Mustard,Washington,2004,summer,90,40
+248,Banana,West Virginia,2004,summer,10,130
+249,Dry chillies,Wisconsin,2004,monsoon,350,210
+250,Onion,Wyoming,2004,monsoon,100,210
+251,Potato,Montgomery,2004,winter,190,990
+252,Turmeric,Juneau,2004,summer,220,150
+253,Dry ginger,Phoenix,2004,summer,10,20
+254,Peas & beans (Pulses),Little Rock,2004,winter,310,160
+255,Rice,Sacramento,2004,winter,6170,6710
+256,Sesamum,Denver,2004,autumn,140,70
+257,Soyabean,Hartford,2004,monsoon,130,160
+258,Rapeseed &Mustard,Dover,2004,monsoon,40,20
+259,Banana,Tallahassee,2004,monsoon,810,10420
+260,Dry chillies,Atlanta,2004,monsoon,10,10
+261,Onion,Honolulu,2004,monsoon,10,20
+262,Rice,Boise,2004,monsoon,26,62
+263,Banana,Springfield,2004,summer,10,120
+264,Peas & beans (Pulses),Indianapolis,2004,summer,10,
+265,Potato,Des Moines,2004,summer,10,50
+266,Rice,Topeka,2004,summer,26840,66970
+267,Turmeric,Frankfort,2004,summer,10,10
+268,Potato,Baton Rouge,2004,summer,270,1410
+269,Redish,Augusta,2004,autumn,20,200
+270,Tomato,Annapolis,2004,summer,83,664
+271,Dry ginger,Boston,2004,monsoon,20,30
+272,Other Kharif pulses,Lansing,2004,monsoon,260,130
+273,Peas & beans (Pulses),St. Paul,2005,spring,670,340
+274,Jute,Jackson,2005,summer,312,2916
+275,Maize,Jefferson City,2006,summer,1090,1362
+276,Mesta,Helena,2007,summer,278,1354
+277,Rice,Lincoln,2008,autumn,17301,22730
+278,Sesamum,Carson City,2009,winter,295,147
+279,Small millets,Concord,2010,winter,494,415
+280,Soyabean,Trenton,2011,autumn,138,136
+281,Castor seed,Santa Fe,2012,autumn,11,5
+282,Gram,Albany,2013,summer,255,152
+283,Other  Rabi pulses,Raleigh,2014,summer,206,133
+284,Pulses total,Bismarck,2015,summer,572,380
+285,Rapeseed &Mustard,Columbus,2015,monsoon,749,355
+286,Tobacco,Oklahoma City,2015,monsoon,253,166
+287,Wheat,Salem,2016,monsoon,72,83
+288,Arecanut,Harrisburg,2017,summer,793,749
+289,Banana,Providence,2018,winter,1075,13310
+290,Dry chillies,Columbia,2019,monsoon,324,194
+291,Peas & beans (Pulses),Pierre,2006,monsoon,87,108
+292,Rapeseed &Mustard,Nashville,2007,monsoon,304,316
+293,Sesamum,Austin,2008,monsoon,1368,1270
+294,Soyabean,Salt Lake City,2009,summer,563,809
+295,Rapeseed &Mustard,Montpelier,2010,summer,145,146
+296,Tobacco,Richmond,2011,summer,217,273
+297,Wheat,Olympia,2012,monsoon,22,11
+298,Rice,Charleston,2013,monsoon,30274,50241
+299,Sugarcane,Madison,2014,monsoon,894,4890
+300,Tapioca,Cheyenne,2015,summer,255,5981
+301,Cotton(lint),Alabama,2016,summer,267,260
+302,Maize,Alaska,2017,monsoon,3803,6380
+303,Other Kharif pulses,Arizona,2018,monsoon,2812,4364
+304,other oilseeds,Arkansas,2019,monsoon,1779,2315
+305,Potato,California,2020,monsoon,70,310
+306,Cotton(lint),Colorado,2006,winter,91,130
+307,Groundnut,Connecticut,2006,monsoon,650,670
+308,Jowar,Delaware,2006,monsoon,270,230
+309,Jute,Florida,2007,autumn,150,230
+310,Maize,Georgia,2008,autumn,4500,6800
+311,Moong(Green Gram),Hawaii,2009,summer,280,230
+312,Niger seed,Idaho,2010,autumn,200,120
+313,Other Kharif pulses,Illinois,2011,autumn,660,760
+314,Rice,Indiana,2012,summer,25740,45660
+315,Sesamum,Iowa,2013,spring,460,520
+316,Small millets,Kansas,2012,autumn,1330,1600
+317,Soyabean,Kentucky,2012,monsoon,1420,2570
+318,Sunflower,Louisiana,2013,monsoon,780,580
+319,Barley,Maine,2014,summer,150,230
+320,Gram,Maryland,2015,monsoon,200,220
+321,Linseed,Massachusetts,2015,monsoon,1650,740
+322,Other  Rabi pulses,Michigan,2015,autumn,1070,1000
+323,Peas & beans (Pulses),Minnesota,2016,spring,880,900
+324,Rapeseed &Mustard,Mississippi,2016,winter,3260,2110
+325,Rice,Missouri,2016,spring,1680,3330
+326,Sunflower,Montana,2016,summer,200,230
+327,Wheat,Nebraska,2016,summer,1100,2500
+328,Potato,Nevada,2016,summer,780,9120
+329,Sugarcane,New Hampshire,2017,autumn,230,21310
+330,Tea,New Jersey,2017,autumn,170,1490
+331,Arhar,New Mexico,2017,winter,1600,1020
+332,Bajra,New York,2018,autumn,200,140
+333,Cotton(lint),North Carolina,2019,summer,80,90
+334,Jowar,North Dakota,2020,monsoon,270,230
+335,Ragi,Ohio,1996,autumn,46,25
+336,Sesamum,Oklahoma,1997,autumn,1307,385
+337,Urad,Oregon,1998,autumn,2878,547
+338,Wheat,Pennsylvania,1999,autumn,94,67
+339,Arhar,Rhode Island,2000,winter,469,115
+340,Groundnut,South Carolina,2001,winter,1022,1216
+341,Maize,South Dakota,2002,monsoon,17,14
+342,Paddy,Tennessee,2003,autumn,4012,7184
+343,Sesamum,Texas,2004,monsoon,790,187
+344,Urad,Utah,2005,autumn,15,4
+345,Potato,Vermont,2006,autumn,524,4122
+346,Arhar,Virginia,2007,summer,660,114
+347,Groundnut,Washington,2007,summer,108,134
+348,Horse-gram,West Virginia,2007,summer,5955,1476
+349,Maize,Wisconsin,2007,summer,9,10
+350,Paddy,Wyoming,2008,monsoon,86616,124082
+351,Sesamum,Montgomery,2008,autumn,5536,919
+352,Sugarcane,Juneau,2008,autumn,303,17501
+353,Urad,Phoenix,2008,autumn,1522,297
+354,Groundnut,Little Rock,2008,autumn,4170,3161
+355,Maize,Sacramento,2009,winter,1062,623
+356,Moong(Green Gram),Denver,2009,winter,2510,331
+357,Ragi,Hartford,2009,monsoon,138,57
+358,Rice,Dover,2009,autumn,22432,9042
+359,Sesamum,Tallahassee,2009,autumn,2281,326
+360,Urad,Atlanta,2009,autumn,2295,342
+361,Groundnut,Honolulu,2009,winter,626,384
+362,Maize,Boise,2009,spring,10,7
+363,Ragi,Springfield,2010,summer,1,1
+364,Rapeseed &Mustard,Indianapolis,2010,summer,1235,98
+365,Rice,Des Moines,2011,summer,77609,63810
+366,Sesamum,Topeka,2011,autumn,4367,594
+367,Sugarcane,Frankfort,2011,autumn,326,17613
+368,Urad,Baton Rouge,2011,monsoon,1390,221
+369,Rice,Augusta,2011,autumn,20000,23000
+370,Arhar,Annapolis,2011,autumn,7960,5010
+371,Castor seed,Boston,2011,monsoon,220,110
+372,Cotton(lint),Lansing,2012,autumn,380,260
+373,Dry chillies,St. Paul,2012,winter,1860,1250
+374,Dry ginger,Jackson,2012,spring,460,1460
+375,Groundnut,Jefferson City,2012,spring,8570,11280
+376,Maize,Helena,2012,summer,4150,2280
+377,Mesta,Lincoln,2012,winter,1280,7180
+378,Sesamum,Carson City,2013,monsoon,10040,2590
+379,Sunflower,Concord,2013,monsoon,670,1120
+380,Sweet potato,Trenton,2013,summer,290,2470
+381,Urad,Santa Fe,2013,summer,7850,1630
+382,Wheat,Albany,2013,summer,750,910
+383,Rice,Raleigh,2013,summer,4650,8350
+384,Onion,Bismarck,2013,summer,5680,71710
+385,Potato,Columbus,2013,winter,580,6280
+386,Sannhamp,Oklahoma City,2013,autumn,40,210
+387,Tobacco,Salem,2013,autumn,290,190
+388,Rice,Harrisburg,2013,summer,89000,117000
+389,Sugarcane,Providence,2013,autumn,1200,73960
+390,Rice,Columbia,2013,summer,22840,7460
+391,Arhar,Pierre,2013,monsoon,8930,6430
+392,Castor seed,Nashville,2013,summer,220,100
+393,Cotton(lint),Austin,2013,winter,130,180
+394,Dry ginger,Salt Lake City,2013,winter,470,980
+395,Groundnut,Montpelier,2013,monsoon,4842,3248.2
+396,Horse-gram,Richmond,2013,monsoon,3734,660.9
+397,Maize,Olympia,2014,monsoon,1059,723.6
+398,Mesta,Charleston,2014,autumn,1250,7570
+399,Moong(Green Gram),Madison,2014,autumn,3405,550.1
+400,Other Kharif pulses,Cheyenne,2014,autumn,3220,1610
+401,Ragi,Vermont,2014,autumn,308,111.5
+402,Sesamum,Virginia,2014,monsoon,5823,895.5
+403,Small millets,Washington,2014,autumn,150,80
+404,Urad,West Virginia,2014,monsoon,3697,634
+405,Castor seed,Wisconsin,2014,autumn,450,150
+406,Gram,Wyoming,2014,autumn,1600,740
+407,Coriander,Montgomery,2014,monsoon,1300,640
+408,Dry chillies,Juneau,2014,summer,3950,3360
+409,Garlic,Phoenix,2014,winter,1180,3740
+410,Onion,Little Rock,2014,autumn,2950,31580
+411,Potato,Sacramento,2014,autumn,468,4224.6
+412,Sannhamp,Denver,2014,monsoon,20,70
+413,Sugarcane,Hartford,2014,summer,180,9383.4
+414,Sweet potato,Dover,2014,summer,1500,12220
+415,Tobacco,Tallahassee,2014,summer,70,50
+416,Turmeric,Atlanta,2014,summer,460,1080
+417,Rice,Honolulu,2014,summer,89060,37420
+418,Dry ginger,Boise,2014,summer,470,940
+419,Groundnut,Springfield,2014,summer,5076,3615
+420,Horse-gram,Indianapolis,2014,summer,6540,1837.7
+421,Maize,Des Moines,2014,summer,983,338.5
+422,Moong(Green Gram),Topeka,2014,autumn,3417,478.9
+423,Ragi,Frankfort,2014,winter,183,60
+424,Rice,Baton Rouge,2014,monsoon,113000,187000
+425,Sesamum,Augusta,2014,monsoon,7023,1319.1
+426,Urad,Annapolis,2014,monsoon,5199,878.6
+427,Niger seed,Boston,2014,monsoon,450,160
+428,Rapeseed &Mustard,Lansing,2014,monsoon,902,94.7
+429,Wheat,St. Paul,2014,monsoon,110,170.3
+430,Coriander,Jackson,2014,monsoon,1340,550
+431,Dry chillies,Jefferson City,2014,monsoon,3140,2670
+432,Garlic,Helena,2014,monsoon,1210,3840
+433,Onion,Lincoln,2014,monsoon,2260,24180
+434,Small millets,Carson City,2014,monsoon,60,30
+435,Urad,Concord,2014,monsoon,3837,451.5
+436,Castor seed,Trenton,2014,autumn,270,140
+437,Gram,Santa Fe,2014,autumn,920,480
+438,Niger seed,Albany,2014,winter,350,180
+439,Other  Rabi pulses,Raleigh,2014,winter,660,310
+440,Rapeseed &Mustard,Bismarck,2014,winter,710,61.1
+441,Sunflower,Columbus,2014,monsoon,180,110
+442,Wheat,Oklahoma City,2014,summer,112,146.9
+443,Coriander,Salem,2014,spring,1500,620
+444,Dry chillies,Harrisburg,2014,autumn,3500,2970
+445,Garlic,Providence,2014,monsoon,1250,3960
+446,Onion,Columbia,2014,monsoon,2300,24610
+447,Potato,Pierre,2014,monsoon,459,4028.6
+448,Sugarcane,Nashville,2014,monsoon,223,10317.1
+449,Sweet potato,Austin,2014,summer,1730,14050
+450,Tobacco,Salt Lake City,2014,summer,200,110
+451,Turmeric,Montpelier,2014,spring,290,680
+452,Arhar,Richmond,2014,winter,9500,6500
+453,Castor seed,Olympia,2015,summer,130,60
+454,Dry ginger,Charleston,2016,summer,420,540
+455,Groundnut,Madison,2017,summer,3235,2858
+456,Rice,Cheyenne,2001,summer,153,383
+457,Bajra,Alabama,2002,summer,170,470
+458,Cotton(lint),Alaska,2003,summer,168,876
+459,Dry ginger,Arizona,2004,monsoon,34,21
+460,Groundnut,Arkansas,2005,monsoon,38,53
+461,Jowar,California,2006,winter,3,3
+462,Rice,Colorado,2007,winter,8533,16642
+463,Moong(Green Gram),Connecticut,2008,winter,71,44
+464,Other  Rabi pulses,Delaware,2009,monsoon,1,1
+465,Rapeseed &Mustard,Florida,2010,monsoon,15,68
+466,Urad,Georgia,2011,monsoon,3021,2341
+467,Banana,Hawaii,2012,monsoon,12,300
+468,Cashewnut,Idaho,2013,monsoon,7,4
+469,Coconut ,Illinois,2014,winter,222,3663000
+470,Dry chillies,Indiana,2015,autumn,2,7
+471,Sugarcane,Iowa,2016,monsoon,55,4455
+472,Tapioca,Kansas,2017,monsoon,1,15
+473,Cotton(lint),Kentucky,2018,summer,183,953
+474,Gram,Louisiana,1995,summer,400,300
+475,Masoor,Maine,1996,summer,700,400
+476,Rapeseed &Mustard,Maryland,1997,summer,8000,6000
+477,Wheat,Massachusetts,1998,summer,349000,1318000
+478,Cotton(lint),Michigan,1999,monsoon,5000,2000
+479,Moong(Green Gram),Minnesota,2000,autumn,8400,5300
+480,Sugarcane,Mississippi,2001,winter,11000,600000
+481,Arhar,Missouri,2001,summer,1100,700
+482,Cotton(lint),Montana,2001,monsoon,4000,3000
+483,Maize,Nebraska,2001,autumn,6000,14000
+484,Moong(Green Gram),Nevada,2001,spring,8300,5100
+485,Rice,New Hampshire,2001,summer,305000,878000
+486,Sesamum,New Jersey,2001,summer,4700,1500
+487,Urad,New Mexico,2001,autumn,400,200
+488,Gram,New York,2001,monsoon,2200,200
+489,Masoor,North Carolina,2001,summer,700,600
+490,Peas & beans (Pulses),North Dakota,2001,summer,400,300
+491,Rapeseed &Mustard,Ohio,2001,monsoon,4000,4000
+492,Wheat,Oklahoma,2001,monsoon,214000,862000
+493,Sugarcane,Oregon,2001,summer,9000,540000
+494,Arhar,Pennsylvania,2001,winter,1200,1300
+495,Cotton(lint),Rhode Island,2001,monsoon,2000,3000
+496,Maize,South Carolina,2001,summer,5000,12000
+497,Moong(Green Gram),South Dakota,2001,summer,6300,4700
+498,Rice,Tennessee,2001,summer,319000,991000
+499,Sesamum,Texas,2001,monsoon,6400,1800
+500,Urad,Utah,2001,autumn,400,200
+501,Gram,Vermont,2001,winter,400,400
+502,Masoor,Virginia,2001,monsoon,500,500
+503,Peas & beans (Pulses),Washington,2001,monsoon,600,600
+504,Rapeseed &Mustard,West Virginia,2001,autumn,5000,6000
+505,Wheat,Wisconsin,2001,monsoon,358000,1738000
+506,Sugarcane,Wyoming,2001,monsoon,8000,530000
+507,Arhar,Montgomery,2001,autumn,1200,1400
+508,Cotton(lint),Juneau,2001,winter,2000,2000
+509,Maize,Phoenix,2001,autumn,5000,11000
+510,Moong(Green Gram),Little Rock,2001,monsoon,3500,1900
+511,Rice,Sacramento,2001,spring,319000,972000
+512,Sesamum,Denver,2001,summer,8700,3400
+513,Gram,Hartford,2001,summer,500,500
+514,Masoor,Dover,2001,winter,500,400
+515,Other  Rabi pulses,Tallahassee,2001,monsoon,300,300
+516,Wheat,Atlanta,2001,autumn,361000,1690000
+517,Sugarcane,Honolulu,2001,spring,11000,700000
+518,Arhar,Boise,2001,winter,1400,1100
+519,Cotton(lint),Springfield,2001,spring,2000,3000
+520,Maize,Indianapolis,2001,summer,5000,12000
+521,Moong(Green Gram),Des Moines,2001,summer,2700,1600
+522,Rice,Topeka,2001,summer,319000,958000
+523,Sesamum,Frankfort,2002,autumn,9000,3500
+524,Gram,Baton Rouge,2002,autumn,500,400
+525,Masoor,Augusta,2002,winter,600,500
+526,Rapeseed &Mustard,Annapolis,2002,autumn,300,300
+527,Wheat,Boston,2002,summer,363000,1700000
+528,Sugarcane,Lansing,2002,monsoon,11000,750000
+529,Arhar,St. Paul,2002,autumn,1200,1000
+530,Cotton(lint),Jackson,2002,autumn,1000,1000
+531,Maize,Jefferson City,2002,autumn,4000,7000
+532,Moong(Green Gram),Helena,2002,summer,1800,1300
+533,Rice,Lincoln,2002,winter,311000,879000
+534,Sesamum,Carson City,2002,monsoon,5200,1500
+535,Urad,Concord,2002,monsoon,700,300
+536,Gram,Trenton,2002,spring,300,300
+537,Masoor,Santa Fe,2002,winter,500,300
+538,Rapeseed &Mustard,Albany,2002,spring,2000,2000
+539,Wheat,Raleigh,2002,summer,356000,1513000
+540,Sugarcane,Bismarck,2003,summer,11000,720000
+541,Arhar,Columbus,2003,summer,1500,1400
+542,Cotton(lint),Oklahoma City,2003,monsoon,1000,2000
+543,Maize,Salem,2004,monsoon,4000,13000
+544,Moong(Green Gram),Harrisburg,2004,winter,2800,1900
+545,Rice,Providence,2004,autumn,326000,872000
+546,Sesamum,Columbia,2004,summer,3800,1300
+547,Urad,Pierre,2004,monsoon,800,300
+548,Gram,Nashville,2004,autumn,300,300
+549,Masoor,Austin,2004,autumn,400,300
+550,Rapeseed &Mustard,Salt Lake City,2004,autumn,2000,2000
+551,Sunflower,Montpelier,2004,summer,1000,2000
+552,Wheat,Richmond,2004,summer,358000,1538000
+553,Sugarcane,Olympia,2004,autumn,10000,570000
+554,Arhar,Charleston,2005,monsoon,1400,1100
+555,Cotton(lint),Madison,2005,summer,1000,3000
+556,Maize,Cheyenne,2005,autumn,4000,13000
+557,Moong(Green Gram),Alabama,2005,summer,2200,1600
+558,Rice,Alaska,2005,monsoon,334000,1034000
+559,Sesamum,Arizona,2005,autumn,3400,1600
+560,Urad,Arkansas,2005,winter,300,100
+561,Gram,California,2005,autumn,200,200
+562,Masoor,Colorado,2005,winter,300,0
+563,Rapeseed &Mustard,Connecticut,2005,summer,2000,2000
+564,Wheat,Delaware,2005,summer,372000,1591000
+565,Sugarcane,Florida,2005,monsoon,7000,440000
+566,Arhar,Georgia,2005,monsoon,1100,900
+567,Cotton(lint),Hawaii,2005,autumn,1000,3000
+568,Maize,Idaho,2005,autumn,3000,11000
+569,Moong(Green Gram),Illinois,2005,autumn,1500,1100
+570,Rice,Indiana,2005,winter,345000,1003000
+571,Sesamum,Iowa,2005,winter,4600,1600
+572,Urad,Kansas,2005,monsoon,200,100
+573,Masoor,Kentucky,2005,autumn,100,100
+574,Peas & beans (Pulses),Louisiana,2005,autumn,300,400
+575,Rapeseed &Mustard,Maine,2005,autumn,2000,2000
+576,Wheat,Maryland,2005,winter,371000,1643000
+577,Sugarcane,Massachusetts,2006,spring,6000,367000
+578,Arhar,Michigan,2007,summer,200,200
+579,Maize,Minnesota,2008,autumn,2000,9000
+580,Rice,Mississippi,2009,winter,178000,538000
+581,Sesamum,Missouri,2010,winter,2100,800
+582,Urad,Montana,2011,monsoon,300,100
+583,Masoor,Nebraska,2012,autumn,100,100
+584,Peas & beans (Pulses),Nevada,2012,winter,100,100
+585,Rapeseed &Mustard,New Hampshire,2012,spring,1000,1000
+586,Wheat,New Jersey,2012,summer,185000,767000
+587,Arhar,New Mexico,2012,monsoon,200,200
+588,Maize,New York,2012,monsoon,2000,10000
+589,Rice,North Carolina,2012,summer,178000,546000
+590,Sesamum,North Dakota,2012,summer,1900,600
+591,Urad,Ohio,2012,summer,500,200
+592,Masoor,Oklahoma,2012,monsoon,1000,1000
+593,Rapeseed &Mustard,Vermont,2012,autumn,2000,2000
+594,Wheat,Virginia,2012,autumn,184000,810000
+595,Arhar,Washington,2012,autumn,200,200
+596,Bajra,West Virginia,2012,autumn,1000,1000
+597,Maize,Wisconsin,2012,monsoon,1000,4000
+598,Moong(Green Gram),Wyoming,2012,autumn,100,100
+599,Rice,Montgomery,2013,winter,183000,532000
+600,Sesamum,Juneau,2013,spring,2000,700
+601,Urad,Phoenix,2013,spring,200,100
+602,Masoor,Little Rock,2013,summer,1000,1000
+603,Arhar,Sacramento,2013,autumn,100,100
+604,Maize,Denver,2013,monsoon,1000,3000
+605,Moong(Green Gram),Hartford,2013,summer,100,100
+606,Rice,Dover,2013,summer,186000,503000
+607,Sesamum,Tallahassee,2013,summer,1500,500
+608,Urad,Atlanta,2013,summer,300,200
+609,Peas & beans (Pulses),Honolulu,2013,winter,400,500
+610,Rapeseed &Mustard,Boise,2014,monsoon,1000,1000
+611,Wheat,Springfield,2014,autumn,189000,810000
+612,Arhar,Indianapolis,2014,autumn,1000,1000
+613,Bajra,Des Moines,2014,summer,1000,1000
+614,Urad,Topeka,2014,winter,2000,1000
+615,Peas & beans (Pulses),Frankfort,2014,monsoon,1000,1000
+616,Rapeseed &Mustard,Baton Rouge,2014,autumn,1000,2000
+617,Wheat,Augusta,2014,autumn,190000,945000
+618,Sugarcane,Annapolis,2014,monsoon,3,203000
+619,Arhar,Boston,2014,monsoon,100,100
+620,Rice,Lansing,2015,autumn,185000,544000
+621,Sesamum,St. Paul,2016,summer,1200,400
+622,Urad,Jackson,2016,monsoon,400,200
+623,Gram,Jefferson City,2016,monsoon,100,100
+624,Masoor,Helena,2016,monsoon,100,100
+625,Rapeseed &Mustard,Lincoln,2016,spring,1000,1400
+626,Wheat,Carson City,2017,winter,190000,884000
+627,Guar seed,Concord,2018,summer,300,300
+628,Sugarcane,Trenton,2019,autumn,2000,141000
+629,Barley,Santa Fe,1999,winter,24700,28900
+630,Gram,Albany,2000,spring,98800,94300
+631,Linseed,Raleigh,2001,winter,500,300
+632,Rapeseed &Mustard,Bismarck,2002,winter,36700,25400
+633,Wheat,Columbus,2003,winter,79300,144500
+634,Arhar,Oklahoma City,2004,autumn,3,4
+635,Bajra,Salem,2005,autumn,55089,6045
+636,Castor seed,Harrisburg,2006,autumn,41,57
+637,Cotton(lint),Providence,2007,monsoon,15031,2145
+638,Groundnut,Columbia,2008,monsoon,6377,1628
+639,Jowar,Pierre,2009,winter,105177,6080
+640,Barley,Nashville,1999,spring,340,270
+641,Other  Rabi pulses,Austin,2000,summer,750,840
+642,Rapeseed &Mustard,Salt Lake City,2001,spring,2240,910
+643,Wheat,Montpelier,2002,winter,2720,2370
+644,Pulses total,Richmond,2003,winter,1730,1580
+645,Total foodgrain,Olympia,2004,winter,23370,28920
+646,Maize,Charleston,2005,summer,9700,13473
+647,Rice,Madison,2006,summer,6720,9950
+648,Soyabean,Cheyenne,2007,autumn,1000,830
+649,Urad,Alabama,2008,autumn,980,740
+650,Barley,Alaska,2009,autumn,340,500
+651,Rapeseed &Mustard,Arizona,2010,autumn,2280,1770
+652,Wheat,Arkansas,2011,winter,2550,4310
+653,Maize,California,2012,winter,10210,15700
+654,Other Kharif pulses,Colorado,2013,monsoon,700,590
+655,other oilseeds,Connecticut,2014,monsoon,20,10
+656,Rice,Delaware,2015,summer,6030,7870
+657,Small millets,Florida,2016,spring,1260,1120
+658,Rice,Georgia,1995,winter,24574,608
+659,Arhar,Hawaii,1996,winter,209,27002
+660,Bajra,Idaho,1997,winter,565,7043
+661,Banana,Illinois,1998,summer,190,23891
+662,Cashewnut,Indiana,1999,summer,31113,11
+663,Castor seed,Iowa,2000,autumn,27,109
+664,Coconut ,Kansas,2001,autumn,336,97869
+665,Coriander,Kentucky,2002,autumn,338,134
+666,Cotton(lint),Louisiana,2002,autumn,4074,11033
+667,Dry chillies,Maine,2002,winter,1676,608
+668,Groundnut,Maryland,2002,winter,13878,27002
+669,Jowar,Massachusetts,2002,monsoon,4959,7043
+670,Maize,Michigan,2002,monsoon,9979,23891
+671,Moong(Green Gram),Minnesota,2002,summer,13,11
+672,Ragi,Mississippi,2002,spring,42,109
+673,Rice,Missouri,2002,winter,25211,97869
+674,Sunflower,Montana,2002,winter,202,245
+675,Urad,Nebraska,2002,winter,1526,741
+676,Sugarcane,Nevada,2003,summer,7500,739006
+677,Bajra,New Hampshire,2004,summer,590,1499
+678,Cotton(lint),New Jersey,2005,autumn,7661,36179
+679,Sunflower,New Mexico,2006,autumn,754,922
+680,Urad,New York,2007,autumn,1703,924
+681,Sugarcane,North Carolina,2008,autumn,7804,707584
+682,Bajra,North Dakota,2009,winter,777,2888
+683,Castor seed,Ohio,2010,winter,31,10
+684,Cotton(lint),Oklahoma,2011,monsoon,8815,29867
+685,Dry chillies,Oregon,2012,monsoon,71,40
+686,Guar seed,Pennsylvania,2013,winter,38500,408093
+687,Onion,Rhode Island,2014,winter,42,340
+688,Sannhamp,South Carolina,2015,winter,14,10
+689,Sugarcane,South Dakota,2016,winter,38500,4196384
+690,Sweet potato,Tennessee,2017,monsoon,1432,17360
+691,Tapioca,Texas,2018,summer,3599,131065
+692,Turmeric,Utah,2019,summer,55,310
+693,Maize,Vermont,1999,spring,23900,63000
+694,Moong(Green Gram),Virginia,2000,spring,20600,3600
+695,Other Kharif pulses,Washington,2001,winter,1500,200
+696,Rice,West Virginia,2002,autumn,30600,29100
+697,Sesamum,Wisconsin,2003,monsoon,21700,1000
+698,Sugarcane,Wyoming,2004,autumn,200,15400
+699,Sunflower,Montgomery,2005,monsoon,5200,2300
+700,Urad,Juneau,2006,monsoon,19500,6600
+701,Dry chillies,Phoenix,2007,summer,700,1600
+702,Gram,Little Rock,2008,summer,4000,500
+703,Groundnut,Sacramento,2009,monsoon,3700,3300
+704,Horse-gram,Denver,2010,autumn,3200,300
+705,Jowar,Hartford,2011,autumn,96100,33500
+706,Maize,Dover,2012,winter,4600,13700
+707,Moong(Green Gram),Tallahassee,2013,autumn,4800,600
+708,Other  Rabi pulses,Atlanta,2014,monsoon,2300,300
+709,Rice,Honolulu,2015,monsoon,5200,12400
+710,Sesamum,Boise,2016,monsoon,3900,400
+711,Sunflower,Springfield,2017,monsoon,1600,600
+712,Groundnut,Indianapolis,2001,winter,535,530
+713,Jute,Des Moines,2002,summer,125,1000
+714,Maize,Topeka,2003,summer,615,460
+715,Mesta,Frankfort,2004,summer,460,3374
+716,Moong(Green Gram),Baton Rouge,2005,summer,120,60
+717,Other Kharif pulses,Augusta,2006,summer,323,225
+718,Rice,Annapolis,2007,summer,34010,56605
+719,Sesamum,Boston,2008,monsoon,185,85
+720,Urad,Lansing,2009,monsoon,170,81
+721,Gram,Wyoming,2010,winter,29,20
+722,Groundnut,Montgomery,2011,summer,170,159
+723,Masoor,Juneau,2012,summer,40,16
+724,Moong(Green Gram),Phoenix,2013,winter,107,44
+725,Other  Rabi pulses,Little Rock,2014,winter,157,90
+726,Peas & beans (Pulses),Sacramento,2015,autumn,75,45
+727,Rapeseed &Mustard,Denver,2016,monsoon,935,737
+728,Urad,Hartford,2017,monsoon,57,25
+729,Wheat,Dover,2018,monsoon,250,470
+730,Maize,Tallahassee,2003,monsoon,138,316
+731,Moong(Green Gram),Atlanta,2004,monsoon,97,28
+732,Moth,Honolulu,2005,monsoon,15,8
+733,Oilseeds total,Boise,2006,summer,98911,58881
+734,Onion,Springfield,2007,summer,110,1088
+735,Rice,Indianapolis,2008,summer,935,2073
+736,Sesamum,Des Moines,2009,summer,1784,416
+737,Soyabean,Topeka,2010,summer,4,4
+738,Total foodgrain,Frankfort,2011,summer,258075,602076
+739,Urad,Baton Rouge,2012,autumn,651,345
+740,Barley,Augusta,2013,summer,10865,35423
+741,Gram,Annapolis,2014,monsoon,11744,11816
+742,Other Cereals & Millets,Boston,2005,monsoon,107,32
+743,Other Kharif pulses,Lansing,2006,spring,1539,980
+744,Potato,Wyoming,2007,summer,419,9302
+745,Ragi,Montgomery,2008,summer,31583,34356
+746,Rice,Juneau,2009,summer,21297,21003
+747,Sesamum,Phoenix,2010,autumn,123,19
+748,Small millets,Little Rock,2011,winter,15012,16709
+749,Soyabean,Sacramento,2012,winter,273,150
+750,Urad,Denver,2013,autumn,882,368
+751,Barley,Hartford,2014,autumn,3436,2934
+752,Mesta,Dover,1999,summer,690,6710
+753,Urad,Tallahassee,2000,summer,1992,1310
+754,Gram,Atlanta,2001,summer,267,160
+755,Khesari,Honolulu,2002,monsoon,117,90
+756,Masoor,Boise,2003,monsoon,6179,3720
+757,Moong(Green Gram),Springfield,2004,monsoon,65,49
+758,Oilseeds total,Indianapolis,2005,summer,4205800,3183800
+759,Urad,Des Moines,2006,winter,295,58
+760,Wheat,Topeka,2007,monsoon,6790,11950
+761,Moong(Green Gram),Frankfort,2008,monsoon,175,5
+762,Rice,Baton Rouge,2009,monsoon,98044,269690
+763,Arecanut,Augusta,2010,monsoon,1345,1274
+764,Arhar,Annapolis,2011,summer,45,40
+765,Coconut ,Boston,2012,summer,2975,40162
+766,Dry chillies,Lansing,2013,summer,3916,7706
+767,Groundnut,Boise,2014,monsoon,1719,2840
+768,Linseed,Springfield,2015,monsoon,123,20
+769,Maize,Indianapolis,2016,monsoon,5,10
+770,Potato,Des Moines,2017,summer,6199,131431
+771,Pulses total,Topeka,2018,summer,975200,595700
+772,Rapeseed &Mustard,Indianapolis,2019,monsoon,33993,25070

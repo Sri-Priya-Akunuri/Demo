@@ -1,0 +1,701 @@
+disaster_id,year,month,disaster_type,disaster_name,primary_affect,secondary_affect,state_name,crops_affected,season,nature_of_disaster
+1,1995,sep,Extreme temp,Heat wave,Hot wind,affects crops,Alabama,ginger (dry),winter,occasional
+2,1995,sep,Extreme temp,Heat wave,Hot wind,affects crops,Alaska,cardamon,winter,occasional
+3,1995,sep,Extreme temp,Heat wave,Hot wind,affects crops,Arizona,black pepper,winter,occasional
+4,1995,sep,Extreme temp,Heat wave,Hot wind,affects crops,Arkansas,maize,autumn,occasional
+5,1995,sep,Extreme temp,Heat wave,Hot wind,affects crops,California,chillies ,autumn,occasional
+6,1995,sep,Extreme temp,Heat wave,Hot wind,affects crops,Colorado,wheat,autumn,occasional
+7,1995,sep,Extreme temp,Heat wave,Hot wind,affects crops,Connecticut,moong,monsoon,occasional
+8,1995,sep,Extreme temp,Heat wave,Hot wind,affects crops,Delaware,coffee,monsoon,occasional
+9,1995,sep,Extreme temp,Heat wave,Hot wind,affects crops,Florida,gram,winter,occasional
+10,1995,jul,Slide,Landslide,affects the whole place,affects crops ,Georgia,jute,spring,seasonal
+11,1995,jun,Slide,Landslide,affects the whole place,affects crops ,Hawaii,maize,summer,seasonal
+12,1995,sep,Flood,Flood,heavy rainfall ,affects crops,Idaho,chillies ,spring,seasonal
+13,1995,nov,Wind storm,Cyclone,affects rainfall,affects crops,Illinois,groundnut,winter,seasonal
+14,1995,sep,Flood,Flood,heavy rainfall ,affects crops,Indiana,ragi,winter,seasonal
+15,1995,sep,Flood,Flood,heavy rainfall ,affects crops,Iowa,onion,winter,seasonal
+16,1995,jun,Flood,Flood,heavy rainfall ,affects crops,Kansas,banana,summer,seasonal
+17,1995,jun,Slide,Landslide,affects the whole place,affects crops ,Kentucky,maize,summer,seasonal
+18,1995,sep,Flood,Flood,heavy rainfall ,affects crops,Louisiana,chillies ,autumn,seasonal
+19,1996,aug,Flood,Flood,heavy rainfall ,affects crops,Maine,paddy,autumn,
+20,1996,aug,Flood,Flood,heavy rainfall ,affects crops,Maryland,sugarcane,autumn,seasonal
+21,1996,aug,Flood,Flood,heavy rainfall ,affects crops,Massachusetts,other oilseeds,autumn,seasonal
+22,1996,oct,Flood,Flood,heavy rainfall ,affects crops,Michigan,sunflower,winter,seasonal
+23,1996,oct,Flood,Flood,heavy rainfall ,affects crops,Minnesota,rape-seed & mustard,winter,seasonal
+24,1996,oct,Flood,Flood,heavy rainfall ,affects crops,Mississippi,cashewnut,monsoon,seasonal
+25,1996,oct,Flood,Flood,heavy rainfall ,affects crops,Missouri,cardamon,monsoon,seasonal
+26,1996,oct,Flood,Flood,heavy rainfall ,affects crops,Montana,black pepper,monsoon,seasonal
+27,1996,oct,Flood,Flood,heavy rainfall ,affects crops,Nebraska,barley,monsoon,seasonal
+28,1996,nov,Wind storm,Cyclone,affects rainfall,affects crops,Nevada,millets ,autumn,seasonal
+29,1996,dec,Wind storm,Cyclone,affects rainfall,affects crops,New Hampshire,wheat,autumn,seasonal
+30,1996,mar,Drought,Drought,no rainfall,affects crops,New Jersey,moong,autumn,occasional
+31,1996,jul,Wind storm,Cyclone,affects rainfall,affects crops,New Mexico,coffee,winter,seasonal
+32,1996,jul,Wind storm,Cyclone,affects rainfall,affects crops,New York,gram,winter,seasonal
+33,1996,jul,Flood,Flood,heavy rainfall ,affects crops,North Carolina,jute,monsoon,seasonal
+34,1996,jul,Flood,Flood,heavy rainfall ,affects crops,North Dakota,maize,monsoon,seasonal
+35,1996,jul,Flood,Flood,heavy rainfall ,affects crops,Ohio,chillies ,monsoon,seasonal
+36,1996,jul,Flood,Flood,heavy rainfall ,affects crops,Oklahoma,peas & beans ,monsoon,seasonal
+37,1996,jul,Flood,Flood,heavy rainfall ,affects crops,Oregon,millets (small),autumn,seasonal
+38,1996,jul,Flood,Flood,heavy rainfall ,affects crops,Pennsylvania,potato,autumn,seasonal
+39,1996,jul,Flood,Flood,heavy rainfall ,affects crops,Rhode Island,mesta,autumn,seasonal
+40,1996,jul,Flood,Flood,heavy rainfall ,affects crops,South Carolina,ragi,autumn,seasonal
+41,1996,jul,Flood,Flood,heavy rainfall ,affects crops,South Dakota,onion,autumn,seasonal
+42,1996,jul,Slide,Landslide,heavy rain ,affects crops ,Tennessee,banana,autumn,seasonal
+43,1996,may,Earthquake,Earthquake,human affect,building affect,Texas,paddy,summer,occasional
+44,1996,may,Earthquake,Earthquake,human affect,building affect,Utah,sugarcane,summer,occasional
+45,1996,nov,Flood,Flood,heavy rainfall ,affects crops,Vermont,paddy,autumn,seasonal
+46,1996,nov,Flood,Flood,heavy rainfall ,affects crops,Virginia,sugarcane,autumn,seasonal
+47,1996,jan,Slide,Landslide,affects the whole place,affects crops,Washington,other oilseeds,winter,seasonal
+48,1996,jan,Slide,Landslide,affects the whole place,affects crops,West Virginia,sunflower,summer,seasonal
+49,1996,jan,Slide,Landslide,affects the whole place,affects crops,Wisconsin,rape-seed & mustard,winter,seasonal
+50,1996,jul,Slide,Landslide,affects the whole place,affects crops,Wyoming,cashewnut,winter,seasonal
+51,1997,jun,Slide,Landslide,affects the whole place,affects crops,Montgomery,other oilseeds,monsoon,seasonal
+52,1997,jun,Slide,Landslide,affects the whole place,affects crops,Juneau,sunflower,winter,seasonal
+53,1997,aug,Slide,Landslide,affects the whole place,affects crops,Phoenix,rape-seed & mustard,winter,seasonal
+54,1997,aug,Slide,Landslide,affects the whole place,affects crops,Little Rock,cashewnut,winter,seasonal
+55,1997,aug,Slide,Landslide,affects the whole place,affects crops,Sacramento,paddy,winter,seasonal
+56,1997,aug,Slide,Landslide,affects the whole place,affects crops,Denver,coriander,monsoon,seasonal
+57,1997,aug,Flood,Flood,no rainfall,affects crops,Hartford,jute,monsoon,seasonal
+58,1997,aug,Wave/surge,Tidal wave,affects rainfall,affects crops,Dover,maize,monsoon,occasional
+59,1997,aug,Wind storm,Cyclone,affects rainfall,affects crops,Tallahassee,chillies ,monsoon,seasonal
+60,1997,aug,Wind storm,Cyclone,affects rainfall,affects crops,Atlanta,peas & beans ,monsoon,seasonal
+61,1997,aug,Wind storm,Cyclone,affects rainfall,affects crops,Honolulu,millets (small),monsoon,seasonal
+62,1997,aug,Wind storm,Cyclone,affects rainfall,affects crops,Boise,potato,monsoon,seasonal
+63,1997,sep,Flood,Flood,heavy rainfall ,affects crops,Springfield,mesta,autumn,seasonal
+64,1997,jun,Flood,Flood,heavy rainfall ,affects crops,Indianapolis,ragi,summer,seasonal
+65,1997,jun,Flood,Flood,heavy rainfall ,affects crops,Des Moines,onion,summer,seasonal
+66,1997,jun,Flood,Flood,heavy rainfall ,affects crops,Topeka,banana,summer,seasonal
+67,1997,jun,Flood,Flood,,affects crops,Frankfort,paddy,summer,seasonal
+68,1997,jun,Flood,Flood,heavy rainfall ,affects crops,Baton Rouge,sugarcane,winter,seasonal
+69,1997,aug,Flood,Flood,heavy rainfall ,affects crops,Augusta,other oilseeds,winter,seasonal
+70,1997,aug,Flood,Flood,heavy rainfall ,affects crops,Annapolis,sunflower,winter,seasonal
+71,1997,sep,Flood,Flood,heavy rainfall ,affects crops,Boston,rape-seed & mustard,monsoon,seasonal
+72,1997,sep,Flood,Flood,heavy rainfall ,affects crops,Lansing,cashewnut,winter,seasonal
+73,1997,mar,Slide,Landslide,affects the whole place,affects crops,St. Paul,paddy,spring,
+74,1997,mar,Slide,Landslide,affects the whole place,affects crops,Jackson,coriander,spring,seasonal
+75,1998,mar,Wind storm,Tornado,affects rainfall,affects crops,Jefferson City,urad,spring,seasonal
+76,1998,mar,Wind storm,Tornado,affects rainfall,affects crops,Helena,sunflower,spring,seasonal
+77,1998,mar,Wind storm,Tornado,affects rainfall,affects crops,Lincoln,tea,summer,seasonal
+78,1998,mar,Wind storm,Tornado,affects rainfall,affects crops,Carson City,arhar,summer,seasonal
+79,1998,jun,Slide,Landslide,affects the whole place,affects crops,Concord,chillies (dry),summer,seasonal
+80,1998,jun,Slide,Landslide,,affects crops,Trenton,urad,summer,seasonal
+81,1998,jun,Slide,Landslide,affects the whole place,affects crops,Santa Fe,ginger (dry),monsoon,seasonal
+82,1998,jun,Slide,Landslide,affects the whole place,affects crops,Albany,cardamon,monsoon,seasonal
+83,1998,jun,Slide,Landslide,affects the whole place,affects crops,Raleigh,black pepper,monsoon,seasonal
+84,1998,jun,Wind storm,Cyclone,affects rainfall,affects crops,Bismarck,barley,monsoon,seasonal
+85,1998,jun,Wind storm,Cyclone,affects rainfall,affects crops,Columbus,millets ,monsoon,seasonal
+86,1998,may,Extreme temp,Heat wave,Hot wind,affects crops,Oklahoma City,wheat,summer,occasional
+87,1998,aug,Slide,Landslide,affects the whole place,affects crops,Salem,moong,autumn,seasonal
+88,1998,aug,Slide,Landslide,affects the whole place,affects crops,Harrisburg,coffee,monsoon,seasonal
+89,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Providence,gram,autumn,seasonal
+90,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Columbia,jute,autumn,seasonal
+91,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Pierre,maize,autumn,seasonal
+92,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Nashville,chillies ,autumn,seasonal
+93,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Austin,wheat,autumn,seasonal
+94,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Salt Lake City,moong,autumn,seasonal
+95,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Montpelier,coffee,autumn,seasonal
+96,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Richmond,gram,autumn,seasonal
+97,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Olympia,jute,autumn,seasonal
+98,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Charleston,maize,winter,seasonal
+99,1998,oct,Wind storm,Cyclone,,affects crops,Madison,chillies ,winter,seasonal
+100,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Cheyenne,groundnut,winter,seasonal
+101,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Alabama,ragi,winter,seasonal
+102,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Alaska,onion,spring,seasonal
+103,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Arizona,banana,spring,seasonal
+104,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Arkansas,paddy,spring,seasonal
+105,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,California,sugarcane,autumn,seasonal
+106,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Colorado,other oilseeds,autumn,
+107,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Connecticut,sunflower,autumn,seasonal
+108,1998,oct,Wind storm,Cyclone,affects rainfall,affects crops,Delaware,rape-seed & mustard,autumn,seasonal
+109,1998,nov,Wind storm,Storm,affects rainfall,affects crops,Florida,cashewnut,autumn,seasonal
+110,1998,aug,Flood,Flood,heavy rainfall ,affects crops,Georgia,paddy,monsoon,seasonal
+111,1998,mar,Slide,Avalanche,affects the whole place,affects crops,Hawaii,coriander,spring,seasonal
+112,1998,sep,Flood,Flood,heavy rainfall ,affects crops,Idaho,urad,monsoon,seasonal
+113,1998,sep,Flood,Flood,heavy rainfall ,affects crops,Illinois,sunflower,monsoon,seasonal
+114,1998,dec,Extreme temp,Cold wave,cold wind,affects crops ,Indiana,tea,autumn,occasional
+115,1998,mar,Earthquake,Earthquake,human affect,building affect,Iowa,arhar,spring,occasional
+116,1999,apr,Wild fire,Forest,affects crops,affects crops,Kansas,chillies (dry),summer,occasional
+117,1999,apr,Extreme temp,Heat wave,Hot wind,affects crops,Kentucky,urad,summer,occasional
+118,1999,may,Wind storm,Cyclone,affects rainfall,affects crops,Louisiana,ginger (dry),summer,seasonal
+119,1999,jun,Flood,Flood,heavy rainfall ,affects crops,Maine,cardamon,monsoon,seasonal
+120,1999,oct,Wind storm,Cyclone,affects rainfall,affects crops,Maryland,black pepper,autumn,seasonal
+121,1999,oct,Wind storm,Cyclone,affects rainfall,affects crops,Massachusetts,maize,autumn,seasonal
+122,1999,jan,Extreme temp,Cold wave,human affect,building affect,Michigan,chillies ,winter,occasional
+123,1999,oct,Extreme  temp,Heat  wave,Hot wind,affects crops,Minnesota,maize,autumn,occasional
+124,1999,jun,Extreme  temp,Heat  wave,Hot wind,affects crops,Mississippi,chillies ,summer,occasional
+125,1999,jul,Flood,Flood,heavy rainfall ,affects crops,Missouri,peas & beans ,monsoon,seasonal
+126,1999,oct,Slide,Landslide,affects the whole place,affects crops,Montana,millets (small),autumn,seasonal
+127,1999,dec,Flood,Flood,heavy rainfall ,affects crops,Nebraska,potato,winter,seasonal
+128,1999,oct,Earthquake,Earthquake,human affect,building affect,Nevada,mesta,autumn,occasional
+129,1999,jan,Earthquake,Earthquake,human affect,building affect,New Hampshire,ragi,winter,occasional
+130,1999,may,Flood,Flood,heavy rainfall ,affects crops,New Jersey,onion,summer,seasonal
+131,1999,jun,Wind storm,Cyclone,affects rainfall,affects crops,New Mexico,banana,summer,seasonal
+132,1999,jul,Slide,Landslide,affects the whole place,affects crops,New York,paddy,monsoon,seasonal
+133,1999,aug,Flood,Flood,heavy rainfall ,affects crops,North Carolina,sugarcane,monsoon,seasonal
+134,1999,sep,Wind storm,Cyclone,affects rainfall,affects crops,North Dakota,other oilseeds,monsoon,seasonal
+135,1999,nov,Wind storm,Cyclone,affects rainfall,affects crops,Ohio,sunflower,autumn,seasonal
+136,1999,sep,Extreme  temp,Cold wave,heavy rain ,affects crops ,Oklahoma,rape-seed & mustard,monsoon,occasional
+137,1999,oct,Flood,Flood,heavy rainfall ,affects crops,Oregon,cashewnut,monsoon,seasonal
+138,1999,nov,Slide,Landslide,affects the whole place,affects crops,Pennsylvania,paddy,autumn,seasonal
+139,1999,jul,Slide,Landslide,occasional,affects crops,Rhode Island,coriander,monsoon,seasonal
+140,1999,oct,Extreme  temp,Cold wave,cold wind,affects crops ,South Carolina,urad,autumn,occasional
+141,1999,jan,Wind storm,Cyclone,affects rainfall,affects crops,South Dakota,sunflower,winter,seasonal
+142,1999,feb,Flood,Flood,heavy rainfall ,affects crops,Tennessee,tea,spring,seasonal
+143,1999,mar,Wind storm,Cyclone,affects rainfall,affects crops,Texas,arhar,spring,seasonal
+144,2000,apr,Drought,Drought,no rainfall,affects crops,Utah,wheat,autumn,seasonal
+145,2000,apr,Extreme temp,Heat wave,Hot wind,affects crops,Vermont,moong,winter,occasional
+146,2000,jun,Flood,Flood,heavy rainfall ,affects crops,Virginia,coffee,summer,seasonal
+147,2000,jun,Slide,Landslide,affects the whole place,affects crops,Washington,gram,summer,seasonal
+148,2000,jul,Slide,Landslide,affects the whole place,affects crops,West Virginia,jute,summer,seasonal
+149,2000,jul,Flood,Flood,heavy rainfall ,affects crops,Wisconsin,maize,monsoon,seasonal
+150,2000,aug,Flood,Flood,heavy rainfall ,affects crops,Wyoming,chillies ,monsoon,seasonal
+151,2000,aug,Slide,Landslide,affects the whole place,affects crops,Montgomery,groundnut,monsoon,seasonal
+152,2000,aug,Flood,Flood,heavy rainfall ,affects crops,Juneau,ragi,monsoon,seasonal
+153,2000,sept,Flood,Flood,heavy rainfall ,affects crops,Phoenix,onion,monsoon,seasonal
+154,2000,nov,Drought,Drought,no rainfall,affects crops,Little Rock,banana,spring,occasional
+155,2000,aug,Flood,Flood,heavy rainfall ,affects crops,Sacramento,paddy,monsoon,seasonal
+156,2000,nov,Wind storm,Cyclone,affects rainfall,affects crops,Denver,sugarcane,autumn,seasonal
+157,2000,oct,Flood,Flood,heavy rainfall ,affects crops,Hartford,other oilseeds,autumn,seasonal
+158,2000,nov,Wind storm,Cyclone,affects rainfall,affects crops,Dover,sunflower,autumn,seasonal
+159,2000,may,Exterme temp,Heat Wave,Hot wind,affects crops,Tallahassee,rape-seed & mustard,summer,occasional
+160,2001,nov,Slide,Land Slide,affects the whole place,affects crops,Atlanta,cashewnut,autumn,seasonal
+161,2001,oct,Wind storm,Cyclone,affects rainfall,affects crops,Honolulu,castor seed,summer,seasonal
+162,2001,oct,Wind storm,Cyclone,affects rainfall,affects crops,Boise,cotton,monsoon,seasonal
+163,2001,oct,Wind storm,Cyclone,affects rainfall,affects crops,Springfield,ginger (dry),monsoon,seasonal
+164,2001,oct,Wind storm,Cyclone,affects rainfall,affects crops,Indianapolis,cardamon,monsoon,seasonal
+165,2001,oct,Wind storm,Cyclone,affects rainfall,affects crops,Des Moines,black pepper,summer,seasonal
+166,2001,sep,Flood,Flood,heavy rainfall ,affects crops,Topeka,barley,summer,seasonal
+167,2001,aug,Flood,Flood,heavy rainfall ,affects crops,Frankfort,millets ,monsoon,seasonal
+168,2001,aug,Drought,Drought,no rainfall,affects crops,Baton Rouge,wheat,monsoon,occasional
+169,2001,jul,Flood,Flood,heavy rainfall ,affects crops,Augusta,moong,monsoon,seasonal
+170,2001,jul,Flood,Flood,heavy rainfall ,affects crops,Annapolis,coffee,monsoon,seasonal
+171,2001,jul,Flood,Flood,heavy rainfall ,affects crops,Boston,gram,monsoon,seasonal
+172,2001,jul,Flood,Flood,heavy rainfall ,affects crops,Lansing,jute,monsoon,seasonal
+173,2001,jul,Flood,Flood,heavy rainfall ,affects crops,St. Paul,maize,monsoon,seasonal
+174,2001,jul,Flood,Flood,heavy rainfall ,affects crops,Jackson,chillies ,monsoon,seasonal
+175,2001,sep,Flood,Flood,heavy rainfall ,affects crops,Jefferson City,gram,autumn,seasonal
+176,2001,jan,Earthquake,Earthquake,human affect,building affect,Helena,jute,winter,occasional
+177,2001,mar,Flood,Flood,heavy rainfall ,affects crops,Lincoln,maize,spring,seasonal
+178,2001,may,Flood,Flood,heavy rainfall ,affects crops,Carson City,chillies ,summer,seasonal
+179,2001,may,Flood,Flood,heavy rainfall ,affects crops,Concord,wheat,monsoon,seasonal
+180,2001,jun,Flood,Flood,heavy rainfall ,affects crops,Trenton,moong,summer,seasonal
+181,2001,jun,Wind storm,Cyclone,affects rainfall,affects crops,Santa Fe,coffee,summer,seasonal
+182,2001,jul,Extreme temp,Cold wave,cold wind,affects crops ,Albany,gram,monsoon,occasional
+183,2002,jan,Exterme temp,Cold Wave,cold wind,affects crops,Raleigh,groundnut,winter,occasional
+184,2002,aug,Flood,Flood,heavy rainfall ,affects crops ,Bismarck,peas & beans ,autumn,seasonal
+185,2002,aug,Torrential rain,Flash Flood,heavy rainfall,affects crops ,Columbus,millets (small),autumn,occasional
+186,2002,aug,Flood,Flood,affects cropss,affects crops,Oklahoma City,potato,autumn,seasonal
+187,2002,aug,Flood,Flood,heavy rainfall ,affects crops ,Salem,mesta,monsoon,seasonal
+188,2002,jul,Flood,Flood,heavy rainfall,affects crops ,Harrisburg,ragi,monsoon,seasonal
+189,2002,jul,Slide,Land Slide,affects the whole place,affects crops ,Providence,onion,monsoon,seasonal
+190,2002,jul,Drought,Drought,no rainfall,affects crops,Columbia,banana,monsoon,occasional
+191,2002,jun,Flood,Flood,heavy rainfall,affects crops ,Pierre,paddy,summer,seasonal
+192,2002,jun,Torrential rain,Flash Flood,heavy rainfall,affects crops ,Nashville,sugarcane,summer,occasional
+193,2002,jun,Flood,Flood,heavy rainfall,affects crops ,Austin,other oilseeds,summer,seasonal
+194,2002,jan,Torrential rain,Flash Flood,heavy rainfall,affects crops ,Salt Lake City,sunflower,winter,occasional
+195,2002,nov,Flood,Flood,heavy rainfall,affects crops ,Montpelier,rape-seed & mustard,autumn,seasonal
+196,2002,sep,Flood,Flood,heavy rainfall,affects crops ,Richmond,cashewnut,monsoon,seasonal
+197,2002,nov,Wind storm,Cyclone,affects rainfall,affects crops,Olympia,ragi,monsoon,seasonal
+198,2002,nov,Wind storm,Cyclone,affects rainfall,affects crops,Charleston,onion,monsoon,seasonal
+199,2002,nov,Flood,Flood,heavy rainfall ,affects crops,Madison,banana,autumn,seasonal
+200,2002,nov,Flood,Flood,heavy rainfall ,affects crops,Cheyenne,paddy,autumn,seasonal
+201,2002,nov,Flood,Flood,heavy rainfall ,affects crops,Alabama,sugarcane,autumn,seasonal
+202,2002,jan,Slide,Landslide,affects the whole place,affects crops,Alaska,other oilseeds,winter,seasonal
+203,2002,jan,Slide,Landslide,affects the whole place,affects crops,Arizona,sunflower,winter,seasonal
+204,2002,jan,Slide,Landslide,affects the whole place,affects crops,Arkansas,rape-seed & mustard,winter,seasonal
+205,2002,jul,Slide,Landslide,affects the whole place,affects crops,California,cashewnut,monsoon,seasonal
+206,2003,dec,Exterme Cold,Cold Wave,cold wind,affects crops,Colorado,paddy,winter,occasional
+207,2003,dec,Wind storm,Cyclone,affects rainfall,affects crops,Connecticut,coriander,winter,seasonal
+208,2003,aug,Torrential rain,Flash Flood,heavy rainfall,affects crops ,Delaware,urad,monsoon,occasional
+209,2003,aug,Slide,Land Slide,affects the whole place,affects crops ,Florida,sunflower,monsoon,seasonal
+210,2003,jul,Torrential rain,Flash Flood,heavy rainfall,affects crops ,Georgia,tea,monsoon,occasional
+211,2003,jun,Flood,Flood,heavy rainfall,affects crops ,Hawaii,arhar,summer,seasonal
+212,2003,may,Exterme temp,Heat Wave,hot wind,affects crops,Idaho,chillies (dry),summer,occasional
+213,2003,apr,Storm,Storm,affects rainfall,affects crops ,Illinois,urad,summer,seasonal
+214,2003,mar,High Wind,Hailstorm,affects rainfall,affects crops ,Indiana,ginger (dry),spring,occasional
+215,2003,mar,Flood,Flood,heavy rainfall,affects crops ,Iowa,cardamon,spring,seasonal
+216,2003,mar,Slide,Avalanche,affects the whole place,affects crops ,Kansas,black pepper,spring,seasonal
+217,2003,jan,Exterme temp,Cold Wave,cold wind,affects crops,Kentucky,barley,spring,occasional
+218,2003,aug,Earthquake,Earthquake,affects the whole place,building affect,Louisiana,coffee,monsoon,occasional
+219,2003,aug,Earthquake,Earthquake,affects the whole place,building affect,Maine,gram,monsoon,occasional
+220,2003,aug,Earthquake,Earthquake,affects the whole place,building affect,Maryland,jute,monsoon,occasional
+221,2003,aug,Earthquake,Earthquake,affects the whole place,building affect,Massachusetts,maize,monsoon,occasional
+222,2003,aug,Earthquake,Earthquake,affects the whole place,building affect,Michigan,chillies ,monsoon,occasional
+223,2003,jan,Wind storm,Cyclone,affects rainfall,affects crops,Minnesota,wheat,winter,seasonal
+224,2003,jan,Wind storm,Cyclone,affects rainfall,affects crops,Mississippi,moong,winter,seasonal
+225,2003,jan,Wind storm,Cyclone,affects rainfall,affects crops,Missouri,coffee,winter,seasonal
+226,2003,jan,Wind storm,Cyclone,affects rainfall,affects crops,Montana,gram,winter,seasonal
+227,2003,nov,Wind storm,Cyclone,affects rainfall,affects crops,Nebraska,jute,monsoon,seasonal
+228,2003,may,Slide,Landslide,affects the whole place,affects crops,Nevada,maize,summer,seasonal
+229,2003,may,Flood,Flood,heavy rainfall ,affects crops,New Hampshire,chillies ,summer,seasonal
+230,2003,mar,Flood,Flood,heavy rainfall ,affects crops,New Jersey,groundnut,spring,seasonal
+231,2004,feb,Slide,Avalanche,affects the whole place,affects crops ,New Mexico,millets ,spring,seasonal
+232,2004,dec,High Rainfall,Tsunami,heavy rainfall,affects crops ,New York,wheat,winter,seasonal
+233,2004,oct,Torrential rain,Flash Flood,heavy rainfall,affects crops ,North Carolina,moong,autumn,occasional
+234,2004,sep,Torrential rain,Flash Flood,heavy rainfall,affects crops ,North Dakota,coffee,monsoon,occasional
+235,2004,sep,Flood,Flood,heavy rainfall,affects crops ,Ohio,gram,autumn,seasonal
+236,2004,aug,Torrential rain,Flash Flood,heavy rainfall,affects crops ,Oklahoma,jute,monsoon,occasional
+237,2004,aug,Mud Strom,Dust storm,affects rainfall,affects crops ,Oregon,maize,monsoon,occasional
+238,2004,jun,Flood,Flood,heavy rainfall,affects crops ,Pennsylvania,chillies ,summer,seasonal
+239,2004,jun,Torrential rain,Flash Flood,heavy rainfall,affects crops ,Rhode Island,peas & beans ,summer,occasional
+240,2004,aug,Drought,Drought,no rainfall,affects crops,South Carolina,paddy,monsoon,occasional
+241,2004,sep,Insect infestation,Insect infestation,affects crops,affects rainfall,South Dakota,sugarcane,autumn,occasional
+242,2004,oct,Flood,Flood,affects crops,affects rainfall,Tennessee,other oilseeds,autumn,seasonal
+243,2004,dec,Flood,Flood,cold wind,cold wind,Texas,sunflower,winter,seasonal
+244,2004,nov,Wind storm,Cyclone,affects rainfall,affects crops,Utah,rape-seed & mustard,autumn,seasonal
+245,2004,aug,Extreme temp,Heat wave,Hot wind,affects crops,Vermont,cashewnut,monsoon,occasional
+246,2004,aug,Slide,Avalanche,affects the whole place,affects crops,Virginia,paddy,monsoon,seasonal
+247,2004,sep,Extreme temp,Heat wave,Hot wind,affects crops,Washington,coriander,monsoon,occasional
+248,2004,sep,Extreme temp,Heat wave,Hot wind,affects crops,West Virginia,urad,monsoon,occasional
+249,2004,dec,Wind storm,Cyclone,affects rainfall,affects crops,Wisconsin,barley,winter,seasonal
+250,2004,jun,Wind storm,Cyclone,affects rainfall,affects crops,Wyoming,millets ,summer,seasonal
+251,2004,jun,Flood,Flood,heavy rainfall ,affects crops,Montgomery,wheat,summer,seasonal
+252,2004,apr,Flood,Flood,heavy rainfall ,affects crops,Juneau,moong,summer,seasonal
+253,2004,apr,Flood,Flood,heavy rainfall ,affects crops,Phoenix,coffee,summer,seasonal
+254,2004,may,Flood,Flood,heavy rainfall ,affects crops,Little Rock,gram,summer,seasonal
+255,2004,jun,Earthquake,Earthquake,heavy rain ,affects crops ,Sacramento,jute,summer,occasional
+256,2004,jul,Flood,Flood,heavy rainfall ,affects crops,Denver,maize,monsoon,seasonal
+257,2004,aug,Flood,Flood,heavy rainfall ,affects crops,Hartford,chillies ,monsoon,seasonal
+258,2004,jun,Flood,Flood,heavy rainfall ,affects crops,Dover,wheat,winter,seasonal
+259,2004,apr,Flood,Flood,heavy rainfall ,affects crops,Tallahassee,moong,summer,seasonal
+260,2004,apr,Flood,Flood,heavy rainfall ,affects crops,Atlanta,coffee,summer,seasonal
+261,2005,jan,Exterme temp,Cold Wave,cold wind,affects crops,Honolulu,millets (small),winter,occasional
+262,2005,dec,Torrential rains,Flash Flood,heavy rainfall,affects crops ,Boise,potato,winter,occasional
+263,2005,nov,Flood,Flood,heavy rainfall,affects crops ,Springfield,mesta,autumn,seasonal
+264,2005,oct,Flood,Flood,heavy rainfall,affects crops ,Indianapolis,ragi,monsoon,seasonal
+265,2005,oct,Earthquake,Earthquake,affect the whole place,building affect,Des Moines,onion,monsoon,occasional
+266,2005,sep,Storm,Storm,affects rainfall,affects crops ,Topeka,banana,monsoon,seasonal
+267,2005,aug,Torrential rain,Flash Flood,heavy rainfall,affects crops ,Frankfort,paddy,monsoon,occasional
+268,2005,aug,Slide,Land Slide,affects the whole place,affects crops ,Baton Rouge,sugarcane,monsoon,seasonal
+269,2005,jul,Slide,Land Slide,affects the whole place,affects crops ,Augusta,other oilseeds,monsoon,seasonal
+270,2005,jun,Flood,Flood,heavy rainfall,affects crops ,Annapolis,sunflower,summer,seasonal
+271,2005,may,Slide,Land Slide,affects the whole place,affects crops ,Boston,rape-seed & mustard,summer,seasonal
+272,2005,may,Exterme temp,Heat Wave,hot wind,affects crops,Lansing,cashewnut,summer,occasional
+273,2005,apr,Storm,Storm,affects the whole place,affects crops ,St. Paul,paddy,summer,seasonal
+274,2005,apr,Storm,Storm,affects the whole place,affects crops ,Jackson,coriander,summer,seasonal
+275,2005,oct,Extreme  temp,Cold wave,cold wind,affects crops,Jefferson City,peas & beans ,summer,occasional
+276,2005,dec,Wind storm,Cyclone,affects the whole place,affects crops,Helena,millets (small),autumn,seasonal
+277,2005,apr,Flood,Flood,heavy rainfall ,affects crops,Lincoln,potato,summer,seasonal
+278,2005,jul,Flood,Flood,heavy rainfall ,affects crops,Carson City,mesta,monsoon,seasonal
+279,2005,sep,Wind storm,Storm,affects rainfall,affects crops,Concord,ragi,monsoon,seasonal
+280,2005,feb,Extreme  temp,Cold wave,cold wind,affects crops,Trenton,onion,spring,occasional
+281,2005,may,Flood,Flood,heavy rainfall ,affects crops,Santa Fe,banana,summer,seasonal
+282,2005,may,Wind storm,Cyclone,affects rainfall,affects crops,Albany,paddy,summer,seasonal
+283,2005,jun,Wind storm,Storm,affects rainfall,affects crops,Raleigh,sugarcane,summer,seasonal
+284,2005,nov,Flood,Flood,heavy rainfall ,affects crops,Bismarck,other oilseeds,autumn,seasonal
+285,2005,dec,Wind storm,Tropical  storm,affects rainfall,affects crops,Columbus,sunflower,winter,seasonal
+286,2005,dec,Slide,Avalanche,affects the whole place,affects crops,Oklahoma City,rape-seed & mustard,winter,seasonal
+287,2005,oct,Flood,Flood,heavy rainfall ,affects crops,Salem,cashewnut,autumn,seasonal
+288,2005,nov,Flood,Flood,heavy rainfall ,affects crops,Harrisburg,paddy,autumn,seasonal
+289,2005,may,Wind storm,Winter,affects rainfall,affects crops,Providence,coriander,summer,seasonal
+290,2005,may,Slide,Landslide,affects the whole place,affects crops,Columbia,urad,summer,seasonal
+291,2005,jun,Earthquake,Earthquake,human affect,building affect,Pierre,sunflower,summer,occasional
+292,2005,aug,Flood,Flood,heavy rainfall ,affects crops,Nashville,tea,monsoon,seasonal
+293,2005,aug,Wind storm,Winter,affects rainfall,affects crops,Austin,arhar,monsoon,seasonal
+294,2005,aug,Drought,Drought,no rainfall,affects crops,Salt Lake City,chillies (dry),monsoon,occasional
+295,2006,jun,Storm,Storm,affects the whole place,affects crops ,Montpelier,urad,summer,seasonal
+296,2006,jan,Exterme temp,Cold Wave,cold wind,affects crops,Richmond,sunflower,winter,occasional
+297,2006,aug,Flood,Flood,heavy rainfall,affects crops ,Olympia,tea,monsoon,seasonal
+298,2006,aug,Flood,Flood,heavy rainfall,affects crops ,Charleston,arhar,monsoon,seasonal
+299,2006,jul,Monsoon,Monsoon Rains,heavy rainfall,affects crops ,Madison,chillies (dry),monsoon,occasional
+300,2006,jul,Slide,Land Slide,affects the whole place,affects crops ,Cheyenne,urad,monsoon,seasonal
+301,2006,jun,Torrential rain,Flash Floods,heavy rainfall,affects crops ,Alabama,ginger (dry),summer,occasional
+302,2006,may,Flash Flood,Lightning,heavy rainfall,affects crops ,Alaska,cardamon,summer,occasional
+303,2006,may,Exterme temp,Heat Wave,hot wind,affects crops,Arizona,black pepper,summer,occasional
+304,2006,aug,Flood,Flood,heavy rainfall ,affects crops,Arkansas,maize,monsoon,seasonal
+305,2006,sep,Wind storm,Storm,affects the whole place,building affect,California,chillies ,monsoon,occasional
+306,2006,aug,Wind storm,Storm,affects rainfall,affects crops,Colorado,peas & beans ,monsoon,seasonal
+307,2006,may,Wind storm,Storm,affects rainfall,affects crops,Connecticut,millets (small),summer,seasonal
+308,2006,jun,Wind storm,Cyclone,affects rainfall,affects crops,Delaware,potato,summer,seasonal
+309,2006,jul,Wind storm,Cyclone,affects rainfall,affects crops,Florida,mesta,monsoon,seasonal
+310,2006,jul,Wind storm,Cyclone,affects rainfall,affects crops,Georgia,ragi,monsoon,seasonal
+311,2006,aug,Wind storm,Cyclone,affects rainfall,affects crops,Hawaii,onion,monsoon,seasonal
+312,2006,sep,Wind storm,Cyclone,affects rainfall,affects crops,Idaho,banana,monsoon,seasonal
+313,2006,jan,Wind storm,Cyclone,affects rainfall,affects crops,Illinois,paddy,winter,seasonal
+314,2006,jul,Wind storm,Cyclone,affects crops,affects crops,Indiana,sugarcane,monsoon,seasonal
+315,2006,aug,Wind storm,Cyclone,affects rainfall,affects crops,Iowa,other oilseeds,monsoon,seasonal
+316,2006,sep,Wind storm,Cyclone,affects rainfall,affects crops,Kansas,sunflower,autumn,seasonal
+317,2006,nov,Flood,Flood,heavy rainfall ,affects crops,Kentucky,rape-seed & mustard,autumn,seasonal
+318,2006,may,Flood,Flood,heavy rainfall ,affects crops,Louisiana,cashewnut,summer,seasonal
+319,2006,sep,Wind storm,Cyclone,affects rainfall,affects crops,Maine,paddy,autumn,seasonal
+320,2006,nov,Wind storm,Cyclone,affects rainfall,affects crops,Maryland,coriander,autumn,seasonal
+321,2007,apr,Exterme temp,Heat Wave,hot wind,affects crops,Massachusetts,barley,summer,occasional
+322,2007,feb,Slide,Avalanches,affects the whole place,affects crops ,Michigan,millets ,spring,seasonal
+323,2007,oct,Flood,Flood,heavy rainfall,affects crops ,Minnesota,wheat,autumn,seasonal
+324,2007,aug,Torrential rain,Flash Flood,heavy rainfall,affects crops ,Mississippi,moong,monsoon,occasional
+325,2007,jul,Flood,Flood,heavy rainfall,affects crops ,Missouri,coffee,monsoon,seasonal
+326,2007,jun,Flash Flood,Lighting,heavy rainfall,affects crops ,Montana,gram,summer,occasional
+327,2007,aug,Drought,Drought,no rainfall,affects crops,Nebraska,chillies (dry),monsoon,occasional
+328,2007,aug,Extreme  temp,Heat  wave,Hot wind,affects crops,Nevada,urad,monsoon,occasional
+329,2007,sep,Flood,Flood,heavy rainfall ,affects crops,New Hampshire,ginger (dry),autumn,seasonal
+330,2007,feb,Wind storm,Cyclone,affects rainfall,affects crops,New Jersey,cardamon,spring,seasonal
+331,2007,jan,Wind storm,Cyclone,affects rainfall,affects crops,New Mexico,black pepper,winter,seasonal
+332,2007,mar,Wind storm,Storm,affects rainfall,affects crops,New York,barley,spring,seasonal
+333,2007,jun,Wind storm,Storm,affects rainfall,affects crops,North Carolina,millets ,summer,seasonal
+334,2007,jun,Flood,Flood,heavy rainfall ,affects crops,North Dakota,wheat,summer,seasonal
+335,2007,jun,Flood,Flood,heavy rainfall ,affects crops,Ohio,moong,summer,seasonal
+336,2007,oct,Drought,Drought,no rainfall,affects crops,Oklahoma,coffee,autumn,occasional
+337,2007,oct,Flood,Flood,heavy rainfall ,affects crops,Oregon,gram,autumn,seasonal
+338,2007,dec,Slide,Avalanche,affects the whole place,affects crops,Pennsylvania,jute,winter,seasonal
+339,2007,nov,Flood,Flood,heavy rainfall ,affects crops,Rhode Island,rape-seed & mustard,autumn,seasonal
+340,2007,may,Flood,Flood,heavy rainfall ,affects crops,South Carolina,cashewnut,summer,seasonal
+341,2007,sep,Wind storm,Cyclone,affects rainfall,affects crops,South Dakota,paddy,monsoon,seasonal
+342,2007,nov,Wind storm,Cyclone,affects rainfall,affects crops,Tennessee,coriander,autumn,seasonal
+343,2007,nov,Wind storm,Tornado,affects rainfall,affects crops,Texas,urad,autumn,seasonal
+344,2007,oct,Wind storm,Tornado,affects rainfall,affects crops,Utah,sunflower,autumn,seasonal
+345,2007,nov,Wind storm,Tornado,affects crops,affects crops,Vermont,tea,autumn,seasonal
+346,2007,dec,Extreme  temp,Heat  wave,Hot wind,affects crops,Virginia,arhar,winter,occasional
+347,2007,jan,Flood,Flood,heavy rainfall ,affects crops,Washington,chillies (dry),winter,seasonal
+348,2007,aug,Flood,Flood,heavy rainfall ,affects crops,West Virginia,urad,monsoon,seasonal
+349,2007,oct,Slide,Landslide,affects the whole place,affects crops,Wisconsin,ginger (dry),autumn,seasonal
+350,2008,sep,Flood,Flood,heavy rain ,affects crops ,Wyoming,chillies ,monsoon,seasonal
+351,2008,aug,Flood,Flood,heavy rain ,affects crops ,Montgomery,wheat,autumn,seasonal
+352,2008,aug,Flood,Flood,heavy rain ,affects crops ,Juneau,moong,autumn,seasonal
+353,2008,jun,Flood,Flood,heavy rain ,affects crops ,Phoenix,coffee,summer,seasonal
+354,2008,may,Storm,Storm,affects rainfall,affects crops ,Little Rock,gram,summer,seasonal
+355,2008,may,Storm,Storm,affects rainfall,affects crops ,Sacramento,jute,summer,seasonal
+356,2008,may,Flood,Flood,heavy rainfall ,affects crops,Denver,cashewnut,summer,seasonal
+357,2008,sep,Wind storm,Cyclone,affects rainfall,affects crops,Hartford,paddy,monsoon,seasonal
+358,2008,nov,Wind storm,Cyclone,affects rainfall,affects crops,Dover,coriander,autumn,seasonal
+359,2008,nov,Wind storm,Tornado,affects rainfall,affects crops,Tallahassee,urad,autumn,seasonal
+360,2008,oct,Wind storm,Tornado,affects rainfall,affects crops,Atlanta,sunflower,autumn,seasonal
+361,2008,nov,Wind storm,Tornado,affects crops,affects crops,Honolulu,tea,autumn,seasonal
+362,2008,dec,Extreme  temp,Heat  wave,Hot wind,affects crops,Boise,arhar,winter,occasional
+363,2008,jan,Flood,Flood,heavy rainfall ,affects crops,Springfield,chillies (dry),winter,seasonal
+364,2008,aug,Flood,Flood,heavy rainfall ,affects crops,Indianapolis,urad,monsoon,seasonal
+365,2008,oct,Slide,Landslide,affects the whole place,affects crops,Des Moines,ginger (dry),autumn,seasonal
+366,2008,nov,Wind storm,Storm,affects rainfall,affects crops,Topeka,cardamon,autumn,seasonal
+367,2008,oct,Wind storm,Cyclone,affects rainfall,affects crops,Frankfort,black pepper,autumn,seasonal
+368,2008,jan,Flood,Flood,heavy rainfall ,affects crops,Baton Rouge,barley,winter,seasonal
+369,2008,feb,Drought,Drought,no rainfall,affects crops,Augusta,millets ,spring,occasional
+370,2008,apr,Slide,Landslide,affects the whole place,affects crops,Annapolis,wheat,summer,seasonal
+371,2008,apr,Extreme  temp,Heat  wave,Hot wind,affects crops,Boston,moong,summer,occasional
+372,2008,may,Wind storm,Cyclone,affects rainfall,affects crops,Lansing,coffee,summer,seasonal
+373,2008,jun,Flood,Flood,heavy rainfall ,affects crops,St. Paul,gram,summer,seasonal
+374,2008,jul,Extreme  temp,Heat  wave,Hot wind,affects crops,Jackson,jute,monsoon,occasional
+375,2008,sep,Slide,Landslide,affects the whole place,affects crops,Jefferson City,maize,autumn,seasonal
+376,2008,oct,Flood,Flood,heavy rainfall ,affects crops,Helena,chillies ,autumn,seasonal
+377,2008,oct,Flood,Flood,heavy rainfall ,affects crops,Lincoln,wheat,autumn,seasonal
+378,2009,sep,Flood,Flood,heavy rainfall,affects crops ,Carson City,maize,monsoon,seasonal
+379,2009,aug,Slides,Landslide,affects the whole place,affects crops ,Concord,chillies ,monsoon,seasonal
+380,2009,jul,Flood,Flood,heavy rainfall,affects crops ,Trenton,groundnut,monsoon,seasonal
+381,2009,may,Wind storm,Cyclone,affects rainfall,affects crops,Santa Fe,chillies (dry),summer,seasonal
+382,2009,may,Strom,Hailstorm,affects rainfall,affects crops ,Albany,bajra,summer,seasonal
+383,2009,may,Exterme temp,Heat wave,hot wind,affects crops,Raleigh,castor seed,summer,occasional
+384,2009,sep,Wind storm,Cyclone,affects rainfall,affects crops,Bismarck,other oilseeds,autumn,seasonal
+385,2009,nov,Wind storm,Cyclone,affects rainfall,affects crops,Columbus,sunflower,autumn,seasonal
+386,2009,sep,Extreme  temp,Cold wave,heavy rain ,affects crops ,Oklahoma City,rape-seed & mustard,monsoon,occasional
+387,2009,oct,Flood,Flood,heavy rainfall ,affects crops,Salem,cashewnut,autumn,seasonal
+388,2009,nov,Slide,Landslide,affects the whole place,affects crops,Harrisburg,paddy,autumn,seasonal
+389,2009,jul,Slide,Landslide,occasional,affects crops,Providence,coriander,monsoon,seasonal
+390,2009,oct,Extreme  temp,Cold wave,cold wind,affects crops ,Columbia,urad,autumn,occasional
+391,2009,jan,Wind storm,Cyclone,affects rainfall,affects crops,Pierre,sunflower,winter,seasonal
+392,2009,feb,Flood,Flood,heavy rainfall ,affects crops,Nashville,tea,spring,seasonal
+393,2009,mar,Wind storm,Cyclone,affects rainfall,affects crops,Austin,arhar,spring,seasonal
+394,2009,jun,Flood,Flood,heavy rainfall ,affects crops,Salt Lake City,chillies (dry),summer,seasonal
+395,2009,jan,Wind storm,Storm,affects rainfall,affects crops,Montpelier,urad,winter,seasonal
+396,2009,aug,Wind storm,Storm,affects rainfall,affects crops,Richmond,ginger (dry),monsoon,seasonal
+397,2009,nov,Slide,Landslide,affects the whole place,affects crops,Olympia,cardamon,autumn,seasonal
+398,2009,nov,Flood,Flood,heavy rainfall ,affects crops,Charleston,black pepper,autumn,seasonal
+399,2009,may,Extreme  temp,Cold wave,cold wind,affects crops ,Madison,barley,summer,occasional
+400,2009,oct,Wind storm,Typhoon,affects rainfall,affects crops,Cheyenne,millets ,autumn,seasonal
+401,2009,may,Flood,Flood,heavy rainfall ,affects crops,Vermont,wheat,summer,seasonal
+402,2009,jul,Flood,Flood,heavy rainfall ,affects crops,Virginia,moong,monsoon,seasonal
+403,2009,dec,Wind storm,Storm,affects rainfall,affects crops,Washington,cardamon,winter,seasonal
+404,2009,feb,Flood,Flood,heavy rainfall ,affects crops,West Virginia,black pepper,spring,seasonal
+405,2009,jun,Flood,Flood,heavy rainfall ,affects crops,Wisconsin,barley,summer,seasonal
+406,2009,jul,Earthquake,Earthquake,affects the whole place,building affect,Wyoming,millets ,monsoon,occasional
+407,2009,oct,Flood,Flood,heavy rainfall ,affects crops,Montgomery,wheat,autumn,seasonal
+408,2009,dec,Flood,Flood,heavy rainfall ,affects crops,Juneau,moong,winter,seasonal
+409,2009,aug,Wind storm,Cyclone,affects rainfall,affects crops,Phoenix,coffee,monsoon,seasonal
+410,2009,oct,Flood,Flood,heavy rainfall ,affects crops,Little Rock,gram,autumn,seasonal
+411,2010,jul,Flood,Flood,heavy rainfall,affects crops ,Sacramento,cotton,monsoon,seasonal
+412,2010,dec,Flood,Flood,heavy rainfall,affects crops ,Denver,ginger (dry),winter,seasonal
+413,2010,sep,Flood,Flood,heavy rainfall,affects crops ,Hartford,cardamon,monsoon,seasonal
+414,2010,aug,Torrential rain,Flash Flood,heavy rainfall,affects crops ,Dover,black pepper,monsoon,occasional
+415,2010,jul,Flood,Flood,heavy rainfall,affects crops ,Tallahassee,barley,monsoon,seasonal
+416,2010,jun,Flood,Flood,heavy rainfall,affects crops ,Atlanta,millets ,summer,seasonal
+417,2010,may,Wind storm,Cyclone,affects rainfall,affects crops,Honolulu,wheat,summer,seasonal
+418,2010,may,Storm,Storm,affects rainfall,affects crops ,Boise,moong,summer,seasonal
+419,2010,apr,Exterme temp,Heat Wave,hot wind,affects crops,Springfield,coffee,summer,occasional
+420,2010,apr,Strom,Strom,affects rainfall,affects crops ,Indianapolis,gram,summer,seasonal
+421,2010,jan,Exterme Cold,Cold Wave,cold wind,affects crops,Des Moines,jute,winter,occasional
+422,2010,nov,Slide,Landslide,affects the whole place,affects crops,Topeka,cardamon,autumn,seasonal
+423,2010,nov,Flood,Flood,heavy rainfall ,affects crops,Frankfort,black pepper,autumn,seasonal
+424,2010,may,Extreme  temp,Cold wave,cold wind,affects crops ,Baton Rouge,barley,summer,occasional
+425,2010,oct,Wind storm,Typhoon,affects rainfall,affects crops,Augusta,millets ,autumn,seasonal
+426,2010,may,Flood,Flood,heavy rainfall ,affects crops,Annapolis,wheat,summer,seasonal
+427,2010,jul,Flood,Flood,heavy rainfall ,affects crops,Boston,moong,monsoon,seasonal
+428,2011,jun,Flood,Flood,heavy rainfall,affects crops ,Lansing,maize,summer,seasonal
+429,2011,dec,Wind storm,Cyclone,affects rainfall,affects crops,St. Paul,chillies ,winter,seasonal
+430,2011,dec,Exterme Cold,Cold Wave,cold wind,affects crops,Jackson,groundnut,winter,occasional
+431,2011,sep,Earthquake,Earthquake,affect the whole place,building affect,Jefferson City,peas & beans ,monsoon,occasional
+432,2011,sep,Flood,Flood,heavy rainfall ,affects crops,Helena,castor seed,monsoon,seasonal
+433,2011,sep,Flood,Flood,heavy rainfall ,affects crops,Lincoln,cotton,monsoon,seasonal
+434,2011,sep,Flood,Flood,heavy rainfall ,affects crops,Carson City,ginger (dry),autumn,seasonal
+435,2011,sep,Flood,Flood,heavy rainfall ,affects crops,Concord,cardamon,autumn,seasonal
+436,2011,sep,Flood,Flood,heavy rainfall ,affects crops,Trenton,black pepper,autumn,seasonal
+437,2011,sep,Flood,Flood,heavy rainfall ,affects crops,Santa Fe,barley,autumn,seasonal
+438,2011,sep,Flood,Flood,heavy rainfall ,affects crops,Albany,millets ,monsoon,seasonal
+439,2011,sep,Flood,Flood,heavy rainfall ,affects crops,Raleigh,wheat,autumn,seasonal
+440,2011,sep,Flood,Flood,heavy rainfall ,affects crops,Bismarck,moong,monsoon,seasonal
+441,2011,sep,Flood,Flood,heavy rainfall ,affects crops,Columbus,coffee,autumn,seasonal
+442,2011,sep,Flood,Flood,heavy rainfall ,affects crops,Oklahoma City,gram,autumn,seasonal
+443,2011,jan,Earthquake,Earthquake,human affect,building affect,Salem,jute,winter,occasional
+444,2011,mar,Flood,Flood,heavy rainfall ,affects crops,Harrisburg,maize,spring,seasonal
+445,2011,may,Flood,Flood,heavy rainfall ,affects crops,Providence,chillies ,summer,seasonal
+446,2011,may,Flood,Flood,heavy rainfall ,affects crops,Columbia,wheat,summer,seasonal
+447,2011,jun,Flood,Flood,heavy rainfall ,affects crops,Pierre,moong,summer,seasonal
+448,2011,jun,Wind storm,Cyclone,affects rainfall,affects crops,Nashville,coffee,summer,seasonal
+449,2011,jul,Extreme temp,Cold wave,cold wind,affects crops ,Austin,gram,monsoon,occasional
+450,2011,jul,Extreme temp,Cold wave,cold wind,affects crops ,Salt Lake City,jute,monsoon,occasional
+451,2012,apr,Storm,Storm,affects rainfall,affects crops ,Montpelier,millets (small),summer,seasonal
+452,2012,dec,Exterme temp,Cold Wave,cold wind,affects crops,Richmond,potato,winter,occasional
+453,2012,nov,Flood,Flood,heavy rainfall,affects crops ,Olympia,mesta,autumn,seasonal
+454,2012,oct,Wind storm,Cyclone,affects rainfall,affects crops,Charleston,ragi,autumn,seasonal
+455,2012,sep,Torrential rain,Flash Flood,heavy rainfall,affects crops ,Madison,onion,monsoon,occasional
+456,2012,may,Flood,Flood,heavy rainfall ,affects crops,Cheyenne,gram,summer,seasonal
+457,2012,may,Flood,Flood,heavy rainfall ,affects crops,Alabama,jute,summer,seasonal
+458,2012,may,Flood,Flood,heavy rainfall ,affects crops,Alaska,maize,summer,seasonal
+459,2012,may,Flood,Flood,heavy rainfall ,affects crops,Arizona,chillies ,summer,seasonal
+460,2012,may,Flood,Flood,heavy rainfall ,affects crops,Arkansas,peas & beans ,summer,seasonal
+461,2012,may,Flood,Flood,heavy rainfall ,affects crops,California,millets (small),summer,seasonal
+462,2012,may,Flood,Flood,heavy rainfall ,affects crops,Colorado,potato,summer,seasonal
+463,2012,may,Flood,Flood,heavy rainfall ,affects crops,Connecticut,mesta,summer,seasonal
+464,2012,may,Flood,Flood,heavy rainfall ,affects crops,Delaware,ragi,summer,seasonal
+465,2012,nov,Flood,Flood,heavy rainfall ,affects crops,Florida,onion,autumn,seasonal
+466,2012,dec,Extreme temp,Cold wave,cold wind,affects crops ,Georgia,banana,winter,occasional
+467,2012,aug,Flood,Flood,heavy rainfall ,affects crops,Hawaii,paddy,monsoon,seasonal
+468,2012,aug,Flood,Flood,heavy rainfall ,affects crops,Idaho,sugarcane,monsoon,seasonal
+469,2012,aug,Flood,Flood,heavy rainfall ,affects crops,Illinois,other oilseeds,monsoon,seasonal
+470,2012,aug,Flood,Flood,heavy rainfall ,affects crops,Indiana,sunflower,monsoon,seasonal
+471,2012,aug,Flood,Flood,heavy rainfall ,affects crops,Iowa,rape-seed & mustard,monsoon,seasonal
+472,2012,aug,Flood,Flood,heavy rainfall ,affects crops,Kansas,cashewnut,monsoon,seasonal
+473,2012,aug,Flood,Flood,heavy rainfall ,affects crops,Kentucky,paddy,monsoon,seasonal
+474,2012,aug,Flood,Flood,heavy rainfall ,affects crops,Louisiana,coriander,monsoon,seasonal
+475,2013,aug,Earthquake,Earthquake,affects the whole place,building affect,Maine,moong,monsoon,occasional
+476,2013,aug,Earthquake,Earthquake,affects the whole place,building affect,Maryland,coffee,monsoon,occasional
+477,2013,aug,Earthquake,Earthquake,affects the whole place,building affect,Massachusetts,gram,monsoon,occasional
+478,2013,aug,Earthquake,Earthquake,affects the whole place,building affect,Michigan,jute,monsoon,occasional
+479,2013,aug,Earthquake,Earthquake,affects the whole place,building affect,Minnesota,maize,monsoon,occasional
+480,2013,aug,Earthquake,Earthquake,affects the whole place,building affect,Mississippi,chillies ,monsoon,occasional
+481,2013,jan,Wind storm,Cyclone,affects rainfall,affects crops,Missouri,wheat,winter,seasonal
+482,2013,jan,Wind storm,Cyclone,affects rainfall,affects crops,Montana,moong,winter,seasonal
+483,2013,jan,Wind storm,Cyclone,affects rainfall,affects crops,Nebraska,coffee,winter,seasonal
+484,2013,jan,Wind storm,Cyclone,affects rainfall,affects crops,Nevada,gram,winter,seasonal
+485,2013,nov,Wind storm,Cyclone,affects rainfall,affects crops,New Hampshire,jute,autumn,seasonal
+486,2013,may,Slide,Landslide,affects the whole place,affects crops,New Jersey,maize,summer,seasonal
+487,2013,may,Flood,Flood,heavy rainfall ,affects crops,New Mexico,chillies ,summer,seasonal
+488,2013,mar,Flood,Flood,heavy rainfall ,affects crops,New York,groundnut,spring,seasonal
+489,2013,aug,Flood,Flood,heavy rainfall ,affects crops,North Carolina,ragi,monsoon,seasonal
+490,2013,aug,Drought,Drought,no rainfall,affects crops,North Dakota,onion,monsoon,occasional
+491,2013,aug,Drought,Drought,no rainfall,affects crops,Ohio,banana,monsoon,occasional
+492,2013,aug,Drought,Drought,no rainfall,affects crops,Oklahoma,paddy,monsoon,occasional
+493,2013,sep,Insect infestation,Insect infestation,affects crops,affects rainfall,Oregon,sugarcane,autumn,occasional
+494,2013,oct,Flood,Flood,affects crops,affects rainfall,Pennsylvania,other oilseeds,autumn,seasonal
+495,2013,dec,Flood,Flood,cold wind,cold wind,Rhode Island,sunflower,winter,seasonal
+496,2013,jan,Wind storm,Cyclone,affects rainfall,affects crops,South Carolina,wheat,winter,seasonal
+497,2013,jan,Wind storm,Cyclone,affects rainfall,affects crops,South Dakota,moong,winter,seasonal
+498,2013,aug,Flood,Flood,heavy rainfall ,affects crops,Tennessee,urad,monsoon,seasonal
+499,2013,jun,Flood,Flood,heavy rainfall ,affects crops,Texas,sunflower,summer,seasonal
+500,2014,mar,Slide,Landslide,affects the whole place,affects crops ,Utah,sunflower,spring,seasonal
+501,2014,oct,Wind storm,Cyclone,affects rainfall,affects crops,Vermont,tea,autumn,seasonal
+502,2014,aug,Flood,Flood,heavy rainfall,affects crops ,Virginia,arhar,monsoon,seasonal
+503,2014,aug,Flood,Flood,heavy rainfall,affects crops ,Washington,chillies (dry),monsoon,seasonal
+504,2014,jul,Slide,Landslide,affects the whole place,affects crops ,West Virginia,urad,monsoon,seasonal
+505,2014,jul,Flood,Flood,heavy rainfall,affects crops ,Wisconsin,ginger (dry),monsoon,seasonal
+506,2014,jun,Flood,Flood,heavy rainfall,affects crops ,Wyoming,maize,summer,seasonal
+507,2014,apr,Mud Strom,Dust storm,affects rainfall,affects crops ,Montgomery,chillies ,summer,occasional
+508,2014,mar,Exterme temp,Heavy Snow,cold wind,affects crops ,Juneau,peas & beans ,spring,occasional
+509,2014,dec,Wind storm,Cyclone,affects rainfall,affects crops,Phoenix,barley,winter,seasonal
+510,2014,jun,Wind storm,Cyclone,affects rainfall,affects crops,Little Rock,millets ,summer,seasonal
+511,2014,jun,Flood,Flood,heavy rainfall ,affects crops,Sacramento,wheat,summer,seasonal
+512,2014,apr,Flood,Flood,heavy rainfall ,affects crops,Denver,moong,summer,seasonal
+513,2014,apr,Flood,Flood,heavy rainfall ,affects crops,Hartford,coffee,summer,seasonal
+514,2014,may,Flood,Flood,heavy rainfall ,affects crops,Dover,gram,summer,seasonal
+515,2014,jun,Earthquake,Earthquake,heavy rain ,affects crops ,Tallahassee,jute,summer,occasional
+516,2014,jul,Flood,Flood,heavy rainfall ,affects crops,Atlanta,maize,monsoon,seasonal
+517,2014,aug,Flood,Flood,heavy rainfall ,affects crops,Honolulu,chillies ,monsoon,seasonal
+518,2014,jan,Drought,Drought,no rainfall,affects crops,Boise,barley,winter,occasional
+519,2014,dec,Flood,Flood,heavy rainfall ,affects crops,Springfield,millets ,winter,seasonal
+520,2014,dec,Flood,Flood,heavy rainfall ,affects crops,Indianapolis,wheat,winter,seasonal
+521,2014,jul,Flood,Flood,heavy rainfall ,affects crops,Des Moines,moong,monsoon,seasonal
+522,2014,jul,Flood,Flood,heavy rainfall ,affects crops,Topeka,coffee,monsoon,seasonal
+523,2014,jul,Flood,Flood,heavy rainfall ,affects crops,Frankfort,gram,monsoon,seasonal
+524,2014,aug,Earthquake,Earthquake,affects the whole place,building affect,Baton Rouge,jute,monsoon,occasional
+525,2014,aug,Flood,Flood,heavy rainfall ,affects crops,Augusta,maize,monsoon,seasonal
+526,2015,jan,Earthquake,Earthquake,affect the whole place,building affect,Annapolis,millets (small),winter,occasional
+527,2015,nov,Flood,Flood,heavy rainfall,affects crops ,Boston,potato,autumn,seasonal
+528,2015,aug,Flood,Flood,heavy rainfall,affects crops ,Lansing,mesta,monsoon,seasonal
+529,2015,jul,Slide,Landslide,affect the whole place,affects crops ,St. Paul,ragi,monsoon,seasonal
+530,2015,jun,Torrential rain,Flash Flood,heavy rainfall,affects crops ,Jackson,onion,summer,occasional
+531,2015,jun,Flood,Flood,heavy rainfall,affects crops ,Jefferson City,banana,summer,seasonal
+532,2015,may,Exterme temp,Heat Wave,hot wind,affects crops,Helena,paddy,summer,occasional
+533,2015,apr,Earthquake,Earthquake,affect the whole place,building affect,Lincoln,sugarcane,summer,occasional
+534,2015,apr,Cyclone,Storm,affects rainfall,affects crops ,Carson City,other oilseeds,summer,seasonal
+535,2015,sep,Extreme  temp,Heat  wave,Hot wind,affects crops,Concord,groundnut,monsoon,occasional
+536,2015,oct,Extreme  temp,Cold wave,cold wind,affects crops,Trenton,peas & beans ,autumn,occasional
+537,2015,dec,Wind storm,Cyclone,affects the whole place,affects crops,Santa Fe,millets (small),winter,seasonal
+538,2015,apr,Flood,Flood,heavy rainfall ,affects crops,Albany,potato,summer,seasonal
+539,2015,jul,Flood,Flood,heavy rainfall ,affects crops,Raleigh,mesta,monsoon,seasonal
+540,2015,sep,Wind storm,Storm,affects rainfall,affects crops,Bismarck,ragi,autumn,seasonal
+541,2015,feb,Extreme  temp,Cold wave,cold wind,affects crops,Columbus,onion,spring,occasional
+542,2015,may,Flood,Flood,heavy rainfall ,affects crops,Oklahoma City,banana,summer,seasonal
+543,2015,may,Wind storm,Cyclone,affects rainfall,affects crops,Salem,paddy,summer,seasonal
+544,2015,sep,Wind storm,Storm,affects the whole place,building affect,Harrisburg,chillies ,autumn,occasional
+545,2015,aug,Wind storm,Storm,affects rainfall,affects crops,Providence,peas & beans ,monsoon,seasonal
+546,2015,may,Wind storm,Storm,affects rainfall,affects crops,Columbia,millets (small),summer,seasonal
+547,2015,jun,Wind storm,Cyclone,affects rainfall,affects crops,Pierre,potato,summer,seasonal
+548,2015,jul,Wind storm,Cyclone,affects rainfall,affects crops,Nashville,mesta,monsoon,seasonal
+549,2015,jul,Wind storm,Cyclone,affects rainfall,affects crops,Austin,ragi,monsoon,seasonal
+550,2016,jun,Flood,Flood,heavy rain ,affects crops ,Salt Lake City,sunflower,summer,seasonal
+551,2016,dec,Wind storm,Cyclone,affects rainfall,affects crops,Montpelier,rape-seed & mustard,winter,seasonal
+552,2016,jul,Slide,Landslide,affects the whole place,affects crops ,Richmond,cashewnut,monsoon,seasonal
+553,2016,jun,Flood,Flood,heavy rain ,affects crops ,Olympia,paddy,summer,seasonal
+554,2016,may,Drought,Drought,no rainfall,affects crops,Charleston,coriander,summer,occasional
+555,2016,apr,Exterme temp,Heat Wave,hot wind,affects crops,Madison,urad,summer,occasional
+556,2016,aug,Wind storm,Cyclone,affects rainfall,affects crops,Cheyenne,onion,monsoon,seasonal
+557,2016,sep,Wind storm,Cyclone,affects rainfall,affects crops,Alabama,banana,autumn,seasonal
+558,2016,jan,Wind storm,Cyclone,affects rainfall,affects crops,Alaska,paddy,winter,seasonal
+559,2016,jul,Wind storm,Cyclone,affects crops,affects crops,Arizona,sugarcane,monsoon,seasonal
+560,2016,aug,Wind storm,Cyclone,affects rainfall,affects crops,Arkansas,other oilseeds,monsoon,seasonal
+561,2016,sep,Wind storm,Cyclone,affects rainfall,affects crops,California,sunflower,autumn,seasonal
+562,2016,jul,Wind storm,Cyclone,affects rainfall,affects crops,Colorado,chillies ,monsoon,seasonal
+563,2016,aug,Earthquake,Earthquake,affects the whole place,building affect,Connecticut,wheat,monsoon,occasional
+564,2016,oct,Drought,Drought,no rainfall,affects crops,Delaware,moong,autumn,occasional
+565,2016,dec,Flood,,heavy rainfall ,affects crops,Florida,coffee,winter,seasonal
+566,2016,sep,Flood,,heavy rainfall ,affects crops,Georgia,gram,autumn,seasonal
+567,2016,sep,Slide,Landslide,affects the whole place,affects crops,Hawaii,jute,monsoon,seasonal
+568,2016,feb,Wind storm,Cyclone,affects rainfall,affects crops,Idaho,maize,spring,seasonal
+569,2016,jun,Flood,Flood,heavy rainfall ,affects crops,Illinois,chillies ,summer,seasonal
+570,2017,may,Storm,Lightning,affects rainfall,affects crops ,Indiana,sunflower,summer,seasonal
+571,2017,dec,Wind storm,Cylcone,affects rainfall,affects crops,Iowa,tea,winter,seasonal
+572,2017,aug,Extreme  temp,Heat  wave,Hot wind,affects crops,Kansas,urad,monsoon,occasional
+573,2017,sep,Flood,Flood,heavy rainfall ,affects crops,Kentucky,ginger (dry),autumn,seasonal
+574,2017,feb,Wind storm,Cyclone,affects rainfall,affects crops,Louisiana,cardamon,spring,seasonal
+575,2017,jan,Wind storm,Cyclone,affects rainfall,affects crops,Maine,black pepper,winter,seasonal
+576,2017,mar,Wind storm,Storm,affects rainfall,affects crops,Maryland,barley,spring,seasonal
+577,2017,jun,Wind storm,Storm,affects rainfall,affects crops,Massachusetts,millets ,summer,seasonal
+578,2017,jun,Flood,Flood,heavy rainfall ,affects crops,Michigan,wheat,summer,seasonal
+579,2017,jun,Flood,Flood,heavy rainfall ,affects crops,Minnesota,moong,summer,seasonal
+580,2017,oct,Drought,Drought,no rainfall,affects crops,Mississippi,coffee,autumn,occasional
+581,2017,oct,Flood,Flood,heavy rainfall ,affects crops,Missouri,gram,autumn,seasonal
+582,2017,dec,Slide,Avalanche,affects the whole place,affects crops,Montana,jute,winter,seasonal
+583,2017,nov,Flood,Flood,heavy rainfall ,affects crops,Nebraska,rape-seed & mustard,autumn,seasonal
+584,2017,may,Flood,Flood,heavy rainfall ,affects crops,Nevada,cashewnut,summer,seasonal
+585,2017,sep,Wind storm,Cyclone,affects rainfall,affects crops,New Hampshire,paddy,monsoon,seasonal
+586,2017,nov,Wind storm,Cyclone,affects rainfall,affects crops,New Jersey,coriander,autumn,seasonal
+587,2017,nov,Wind storm,Tornado,affects rainfall,affects crops,New Mexico,urad,autumn,seasonal
+588,2017,oct,Wind storm,Tornado,affects rainfall,affects crops,New York,sunflower,autumn,seasonal
+589,2017,may,Storm,Lightning,affects rainfall,affects crops ,North Carolina,sunflower,summer,seasonal
+590,2017,dec,Wind storm,Cylcone,affects rainfall,affects crops,North Dakota,tea,winter,seasonal
+591,2017,aug,Extreme  temp,Heat  wave,Hot wind,affects crops,Ohio,urad,monsoon,occasional
+592,2017,sep,Flood,Flood,heavy rainfall ,affects crops,Oklahoma,ginger (dry),monsoon,seasonal
+593,2017,feb,Wind storm,Cyclone,affects rainfall,affects crops,Vermont,cardamon,spring,seasonal
+594,2017,jan,Wind storm,Cyclone,affects rainfall,affects crops,Virginia,black pepper,winter,seasonal
+595,2017,mar,Wind storm,Storm,affects rainfall,affects crops,Washington,barley,spring,seasonal
+596,2017,jun,Wind storm,Storm,affects rainfall,affects crops,West Virginia,millets ,summer,seasonal
+597,2017,jun,Flood,Flood,heavy rainfall ,affects crops,Wisconsin,wheat,summer,seasonal
+598,2017,jun,Flood,Flood,heavy rainfall ,affects crops,Wyoming,moong,summer,seasonal
+599,2017,oct,Drought,Drought,no rainfall,affects crops,Montgomery,coffee,monsoon,occasional
+600,2017,oct,Flood,Flood,heavy rainfall ,affects crops,Juneau,gram,monsoon,seasonal
+601,2017,dec,Slide,Avalanche,affects the whole place,affects crops,Phoenix,jute,winter,seasonal
+602,2017,nov,Flood,Flood,heavy rainfall ,affects crops,Little Rock,rape-seed & mustard,autumn,seasonal
+603,2017,may,Flood,Flood,heavy rainfall ,affects crops,Sacramento,cashewnut,summer,seasonal
+604,2017,sep,Wind storm,Cyclone,affects rainfall,affects crops,Denver,paddy,monsoon,seasonal
+605,2017,nov,Wind storm,Cyclone,affects rainfall,affects crops,Hartford,coriander,autumn,seasonal
+606,2017,nov,Wind storm,Tornado,affects rainfall,affects crops,Dover,urad,autumn,seasonal
+607,2017,oct,Wind storm,Tornado,affects rainfall,affects crops,Tallahassee,sunflower,autumn,seasonal
+608,2017,jun,Flood,Flood,heavy rainfall ,affects crops,Atlanta,chillies ,summer,seasonal
+609,2017,jun,Flood,Flood,heavy rainfall ,affects crops,Honolulu,groundnut,summer,seasonal
+610,2018,nov,Wind storm,Cyclone,affects rainfall,affects crops,Boise,arhar,autumn,seasonal
+611,2018,aug,Flood,Flood,heavy rainfall,affects crops ,Springfield,chillies (dry),monsoon,seasonal
+612,2018,jun,Flood,Flood,heavy rainfall,affects crops ,Indianapolis,banana,summer,seasonal
+613,2018,oct,Extreme  temp,Heat  wave,Hot wind,affects crops,Des Moines,maize,autumn,occasional
+614,2018,jun,Extreme  temp,Heat  wave,Hot wind,affects crops,Topeka,chillies ,summer,occasional
+615,2018,jul,Flood,Flood,heavy rainfall ,affects crops,Frankfort,peas & beans ,monsoon,seasonal
+616,2018,oct,Slide,Landslide,affects the whole place,affects crops,Baton Rouge,millets (small),autumn,seasonal
+617,2018,dec,Flood,Flood,heavy rainfall ,affects crops,Augusta,potato,winter,seasonal
+618,2018,oct,Earthquake,Earthquake,human affect,building affect,Annapolis,mesta,autumn,occasional
+619,2018,jan,Earthquake,Earthquake,human affect,building affect,Boston,ragi,winter,occasional
+620,2018,may,Flood,Flood,heavy rainfall ,affects crops,Lansing,onion,summer,seasonal
+621,2018,jun,Wind storm,Cyclone,affects rainfall,affects crops,St. Paul,banana,summer,seasonal
+622,2018,jul,Slide,Landslide,affects the whole place,affects crops,Jackson,paddy,monsoon,seasonal
+623,2018,aug,Flood,Flood,heavy rainfall ,affects crops,Jefferson City,sugarcane,monsoon,seasonal
+624,2018,nov,Wind storm,Tornado,affects rainfall,affects crops,Helena,urad,autumn,seasonal
+625,2018,oct,Wind storm,Tornado,affects rainfall,affects crops,Lincoln,sunflower,autumn,seasonal
+626,2018,nov,Wind storm,Tornado,affects crops,affects crops,Carson City,tea,autumn,seasonal
+627,2018,dec,Extreme  temp,Heat  wave,Hot wind,affects crops,Concord,arhar,winter,occasional
+628,2018,jan,Flood,Flood,heavy rainfall ,affects crops,Trenton,chillies (dry),winter,seasonal
+629,2018,aug,Flood,Flood,heavy rainfall ,affects crops,Santa Fe,urad,monsoon,seasonal
+630,2018,oct,Slide,Landslide,affects the whole place,affects crops,Albany,ginger (dry),autumn,seasonal
+631,2018,nov,Wind storm,Storm,affects rainfall,affects crops,Raleigh,cardamon,autumn,seasonal
+632,2018,oct,Wind storm,Cyclone,affects rainfall,affects crops,Bismarck,black pepper,autumn,seasonal
+633,2018,jan,Flood,Flood,heavy rainfall ,affects crops,Columbus,barley,winter,seasonal
+634,2018,feb,Drought,Drought,no rainfall,affects crops,Oklahoma City,millets ,spring,occasional
+635,2018,jun,Flood,Flood,heavy rainfall ,affects crops,Salem,groundnut,summer,seasonal
+636,2018,nov,Wind storm,Cyclone,affects rainfall,affects crops,Harrisburg,chillies (dry),autumn,seasonal
+637,2018,dec,Wind storm,Storm,affects rainfall,affects crops,Providence,bajra,winter,seasonal
+638,2018,jan,Wind storm,Storm,affects rainfall,affects crops,Columbia,castor seed,winter,seasonal
+639,2018,sep,Wind storm,Cyclone,affects rainfall,affects crops,Pierre,cotton,monsoon,seasonal
+640,2018,oct,Flood,Flood,heavy rainfall ,affects crops,Nashville,ginger (dry),autumn,seasonal
+641,2018,dec,Wind storm,Storm,affects rainfall,affects crops,Austin,cardamon,winter,seasonal
+642,2018,feb,Flood,Flood,heavy rainfall ,affects crops,Salt Lake City,black pepper,spring,seasonal
+643,2018,jun,Flood,Flood,heavy rainfall ,affects crops,Montpelier,barley,summer,seasonal
+644,2019,sep,Flood,Flood,heavy rainfall,affects crops ,Richmond,paddy,monsoon,seasonal
+645,2019,jul,Flood,Flood,heavy rainfall,affects crops ,Olympia,sugarcane,monsoon,seasonal
+646,2019,jun,Wind storm,Cyclone,affects rainfall,affects crops,Charleston,other oilseeds,summer,seasonal
+647,2019,may,Exterme temp,Heatwave,hot wind,affects crops,Madison,sunflower,summer,occasional
+648,2019,may,Wind storm,Cyclone,affects rainfall,affects crops,Cheyenne,rape-seed & mustard,summer,seasonal
+649,2019,sep,Wind storm,Cyclone,affects rainfall,affects crops,Alabama,other oilseeds,monsoon,seasonal
+650,2019,nov,Wind storm,Cyclone,affects rainfall,affects crops,Alaska,sunflower,autumn,seasonal
+651,2019,sep,Extreme  temp,Cold wave,heavy rain ,affects crops ,Arizona,rape-seed & mustard,autumn,occasional
+652,2019,oct,Flood,Flood,heavy rainfall ,affects crops,Arkansas,cashewnut,autumn,seasonal
+653,2019,nov,Slide,Landslide,affects the whole place,affects crops,California,paddy,autumn,seasonal
+654,2019,jul,Slide,Landslide,occasional,affects crops,Colorado,coriander,monsoon,seasonal
+655,2019,oct,Extreme  temp,Cold wave,cold wind,affects crops ,Connecticut,urad,autumn,occasional
+656,2019,jan,Wind storm,Cyclone,affects rainfall,affects crops,Delaware,sunflower,winter,seasonal
+657,2019,feb,Flood,Flood,heavy rainfall ,affects crops,Florida,tea,spring,seasonal
+658,2019,mar,Wind storm,Cyclone,affects rainfall,affects crops,Georgia,arhar,spring,seasonal
+659,2019,apr,Slide,Landslide,affects the whole place,affects crops,Hawaii,wheat,summer,seasonal
+660,2019,apr,Extreme  temp,Heat  wave,Hot wind,affects crops,Idaho,moong,summer,occasional
+661,2019,may,Wind storm,Cyclone,affects rainfall,affects crops,Illinois,coffee,summer,seasonal
+662,2019,jun,Flood,Flood,heavy rainfall ,affects crops,Indiana,gram,summer,seasonal
+663,2019,jul,Extreme  temp,Heat  wave,Hot wind,affects crops,Iowa,jute,monsoon,occasional
+664,2019,sep,Slide,Landslide,affects the whole place,affects crops,Kansas,maize,autumn,seasonal
+665,2019,oct,Flood,Flood,heavy rainfall ,affects crops,Kentucky,chillies ,autumn,seasonal
+666,2019,oct,Flood,Flood,heavy rainfall ,affects crops,Louisiana,wheat,autumn,seasonal
+667,2019,nov,Earthquake,Earthquake,affects the whole place,building affect,Maine,moong,autumn,occasional
+668,2019,nov,Flood,Flood,heavy rainfall ,affects crops,Maryland,coffee,autumn,seasonal
+669,2019,nov,Drought,Drought,no rainfall,affects crops,Massachusetts,gram,autumn,occasional
+670,2020,nov,Wind storm,Cyclone,affects rainfall,affects crops,Michigan,cashewnut,autumn,seasonal
+671,2020,jul,Wind storm,Flood,heavy rainfall,affects crops ,Minnesota,paddy,monsoon,seasonal
+672,2020,jun,Flash Flood,Lightning ,heavy rainfall,affects crops ,Mississippi,coriander,summer,seasonal
+673,2020,jun,Wind storm,Cyclone,affects rainfall,affects crops,Missouri,urad,summer,seasonal
+674,2020,may,Wind storm,Cyclone,affects rainfall,affects crops,Montana,sunflower,summer,seasonal
+675,2020,jun,Flood,Flood,heavy rainfall ,affects crops,Nebraska,chillies (dry),summer,seasonal
+676,2020,jan,Wind storm,Storm,affects rainfall,affects crops,Nevada,urad,winter,seasonal
+677,2020,aug,Wind storm,Storm,affects rainfall,affects crops,New Hampshire,ginger (dry),monsoon,seasonal
+678,2020,nov,Slide,Landslide,affects the whole place,affects crops,New Jersey,cardamon,autumn,seasonal
+679,2020,nov,Flood,Flood,heavy rainfall ,affects crops,New Mexico,black pepper,autumn,seasonal
+680,2020,may,Extreme  temp,Cold wave,cold wind,affects crops ,New York,barley,summer,occasional
+681,2020,oct,Wind storm,Typhoon,affects rainfall,affects crops,North Carolina,millets ,autumn,seasonal
+682,2020,jul,Wind storm,Storm,affects rainfall,affects crops,North Dakota,onion,monsoon,seasonal
+683,2020,jul,Slide,Landslide,affects the whole place,affects crops,Ohio,banana,monsoon,seasonal
+684,2020,jan,Flood,Flood,heavy rainfall ,affects crops,Oklahoma,paddy,winter,seasonal
+685,2020,aug,Flood,Flood,heavy rainfall ,affects crops,Oregon,sugarcane,monsoon,seasonal
+686,2020,oct,Flood,Flood,heavy rainfall ,affects crops,Pennsylvania,other oilseeds,autumn,seasonal
+687,2020,nov,Earthquake,Earthquake,affects the whole place,building affect,Rhode Island,sunflower,autumn,occasional
+688,2020,jul,Flood,Flood,heavy rainfall ,affects crops,South Carolina,rape-seed & mustard,monsoon,seasonal
+689,2020,aug,Wind storm,Cyclone,affects rainfall,affects crops,South Dakota,cashewnut,monsoon,seasonal
+690,2020,nov,Wind storm,Cyclone,affects rainfall,affects crops,Tennessee,paddy,autumn,seasonal
+691,2020,jun,Earthquake,Earthquake,affects the whole place,building affect,Texas,coriander,summer,occasional
+692,2020,aug,Earthquake,Earthquake,affects the whole place,building affect,Utah,urad,monsoon,occasional
+693,2020,aug,Flood,Flood,heavy rainfall ,affects crops,Vermont,sunflower,monsoon,seasonal
+694,2020,aug,,Earthquake,affects the whole place,building affect,Virginia,tea,monsoon,occasional
+695,2020,mar,,Heat  wave,Hot wind,,Washington,arhar,spring,occasional
+696,2020,jan,,Cold wave,cold wind,,West Virginia,chillies (dry),winter,occasional
+697,2020,may,,Tornado,affects rainfall,,Wisconsin,urad,summer,seasonal
+698,2020,oct,Flood,Flood,heavy rainfall ,,Wyoming,wheat,autumn,seasonal
+699,2020,dec,Flood,Flood,heavy rainfall ,affects crops,Montgomery,moong,winter,seasonal
+700,2021,feb,Glacial Burst,Flood,affect the whole place,affects crops ,Juneau,tea,spring,occasional
